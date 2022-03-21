@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 1
+        span.text-white 1
       h1 Servicio al cliente
     .row.mt-4.justify-content-center
       .col-6

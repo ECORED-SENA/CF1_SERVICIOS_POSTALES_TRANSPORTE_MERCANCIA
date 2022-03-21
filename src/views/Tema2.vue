@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
+        span.text-white 2
       h1 Tipos de cliente
     .row.mt-4.justify-content-center 
       .col-lg-9.mt-4
@@ -101,7 +101,7 @@
                 span Ver más
                 i.fas.fa-link
 
-    #t_2_1.titulo-segundo.color-acento-contenido
+    #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2 Cliente externo
     p Este término hace referencia a personas u organizaciones que adquieren, pagan y utilizan productos o servicios que tiene en el mercado una empresa o persona. Cuando una organización o persona crea un producto o servicio, busca satisfacer necesidades de los clientes externos, es importante tener en cuenta que los clientes externos son el origen o la fuente de los ingresos de las organizaciones, les  permiten el desarrollo, avance y trabajo, y esto es posible  a través de las compras, que generan  estabilidad económica a la organización o a la persona.
     p Se tienen grupos de clientes externos, estos son: 
