@@ -57,7 +57,7 @@
             .col.mb-3.mb-sm-0
               p Para profundizar los conocimientos, se invita a revisar el material complementario, donde se puede visualizar el video <strong>“La calidad del servicio del cliente”.</strong>
             .col-sm-auto
-              a.boton.color-acento-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-acento-botones.texto-blanco(:href="('https://www.youtube.com/embed/3Kc6eRdy0kY')" target="_blank")
                 span Ver más
                 i.fas.fa-link
         .col-1

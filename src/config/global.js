@@ -73,15 +73,20 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
+            titulo: 'Protocolos de Servicio',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Identificación fibras por combustión',
+            titulo: 'Triángulo del servicio',
             hash: 't_3_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.3',
+            titulo: 'Momentos de verdad',
+            hash: 't_3_3',
           },
         ],
       },
@@ -128,139 +133,135 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'Carlzon, J. (1996). El momento de la verdad. Ediciones Díaz De Santos.',
+      link: 'https://pocketbook4you.com/es/read/moments-of-truth',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'Gastalver, C. (2019). Técnicas de Información y Atención al Cliente/consumidor. Editorial Elearning.',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Ministerio de Tecnologías de la Información y las Comunicaciones [MinTIC]. (2020). Plan de modernización del sector postal 2020-2024. ',
+      link: 'https://mintic.gov.co/portal/715/articles-150820_recurso_1.pdf',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'Servicios Postales Nacionales Vicepresidencia de Servicio al Cliente. (2015). Planta automatizada 472 [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=h7BG28An0Tk&t=60s',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
+        'Grupo Proikos. (2015). Atención y Servicio al Cliente [Video]. YouTube. ',
+      link: 'https://www.youtube.com/watch?v=5xGoNUkHpZQ',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Superintendencia de Industria y Comercio. (s. f.). Servicios Postales. Gov.co. ',
+      link: 'https://www.sic.gov.co/servicios-postales',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
-      significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+      termino: 'Atención:',
+      significado: 'proceso cognitivo y conductual de concentración.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Ciclo:',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'estados o fases en los que se desarrollan unos procesos o procedimientos.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Cliente:',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'organización o persona que hace uso de los servicios o productos de una empresa o persona.',
     },
     {
-      termino: '<em>Áectores</em>',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+      termino: 'Destinatario:',
+      significado: 'empresa o persona a quien se dirige algo.',
     },
     {
-      termino: 'Moda',
+      termino: 'Mensajería Expresa:',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'es el servicio postal catalogado como urgente, que requiere de la aplicación de condiciones o características especiales en el proceso de recepción, recolección, clasificación, transporte y entrega de los objetos postales o las mercancías.',
     },
     {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+      termino: 'Petición:',
+      significado: 'acción de solicitar algo.',
     },
     {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+      termino: 'Procedimiento:',
+      significado: 'plan o forma de gestionar o ejecutar una cosa.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Remitente:',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'persona o empresa que despacha algo haciendo uso del servicio de correo o servicio postal.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Servicio de correo:',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'servicios postales prestados por una organización denominada operador postal o concesionario de correo.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Servicios postales:',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'acción de recepción, clasificación, transporte y entrega de elementos postales, haciendo uso de las redes postales establecidas en el mercado.',
     },
     {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Solicitud',
+      significado: 'proceso o procedimiento que se realiza para pedir algo.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Sugerencia:',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'realizar una recomendación o sugerir algo dentro de un proceso.',
+    },
+    {
+      termino: 'Queja:',
+      significado:
+        'manifestación de un disgusto que se genera por un comportamiento o una acción.',
+    },
+    {
+      termino: 'Trámite:',
+      significado:
+        'proceso que se realiza de forma sucesiva para dar solución a una situación.',
+    },
+    {
+      termino: 'Usuario:',
+      significado: 'empresas o personas que usan un servicio con frecuencia.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+        '1.Atención al cliente., (2015). Peña, J. (2015). Calidad en el Servicio al Cliente. Aprende las Claves del Servicio [Video]. YouTube. https://www.youtube.com/watch?v=3Kc6eRdy0kY ',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=3Kc6eRdy0kY',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        '2.1 Cliente interno, (1998). Bien Pensado. (2018). Cómo derretir al cliente interno [Video]. YouTube. https://www.youtube.com/watch?v=2Wsop8Jnd3w',
+      tipo: 'Video',
+      descarga: 'https://www.youtube.com/watch?v=2Wsop8Jnd3w',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+        '3.1 Julca, S. (2016). Protocolo de Atención al Cliente [Video]. YouTube. https://www.youtube.com/watch?v=egkOLUiEdx4',
       tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
+      link: 'https://www.youtube.com/watch?v=egkOLUiEdx4',
+    },
+    {
+      texto:
+        '3.2 Protocolo de servicio al cliente para llamadas.Vivianamilagro Veracaamaño. (2017). Etiqueta Telefónica [Video]. YouTube. https://youtu.be/aza8VUDHYmo',
+      tipo: 'Video',
+      link: '/https://youtu.be/aza8VUDHYmo',
+    },
+    {
+      texto:
+        '3.3 Triángulo del servicio.Pulgarín, S. y Urueña, L. (2019). Principales Exponentes y Conceptos de la Gerencia del Servicio. Universidad Libre Seccional Pereira. ',
+      tipo: 'Documento Repositorio',
+      link: 'https://n9.cl/3ivpc',
     },
   ],
   creditos: {

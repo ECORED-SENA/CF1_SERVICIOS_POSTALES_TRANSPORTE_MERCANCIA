@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="772.502" height="751.927" viewBox="0 0 772.502 751.927">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="766.502" height="751.927" viewBox="0 0 766.502 751.927">
   <defs>
     <filter id="Trazado_150735" x="52.039" y="102" width="237.927" height="237.927" filterUnits="userSpaceOnUse">
       <feOffset dx="5" dy="5" input="SourceAlpha"/>
@@ -82,8 +82,8 @@
     <path id="Trazado_150742" data-name="Trazado 150742" d="M598.247,511.139A91.5,91.5,0,1,1,707.8,442.28a91.5,91.5,0,0,1-109.558,68.859" transform="translate(444.941 556)" fill="#c4c3fb"/>
     <path id="Trazado_150744" data-name="Trazado 150744" d="M623.427,264.773A91.5,91.5,0,1,1,637.9,136.184a91.5,91.5,0,0,1-14.469,128.589" transform="translate(444.941 556)" fill="#ffedc6"/>
     <rect id="Rectángulo_38780" data-name="Rectángulo 38780" width="710.117" height="696.887" transform="translate(444.941 556)" fill="none"/>
-    <g id="Grupo_145362" data-name="Grupo 145362" transform="translate(68 52.834)">
-      <text id="Estado_de_servicios_postales" data-name="Estado de servicios postales" transform="translate(732 940.061)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-35.461" y="17">Estado de </tspan><tspan x="-65.203" y="37">servicios postales</tspan></text>
+    <g id="Grupo_145362" data-name="Grupo 145362" transform="translate(71.899 52.834)">
+      <text id="Estado_de_servicios_postales" data-name="Estado de servicios postales" transform="translate(719 940.061)" fill="#12263f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-38.23" y="14">Estado de </tspan><tspan x="-69.371" y="34">servicios postales</tspan></text>
       <g id="Grupo_145361" data-name="Grupo 145361" transform="translate(172 -220.174)">
         <circle id="Elipse_4886" data-name="Elipse 4886" cx="2.5" cy="2.5" r="2.5" transform="translate(615 1213)" fill="#12263f"/>
         <circle id="Elipse_4887" data-name="Elipse 4887" cx="2.5" cy="2.5" r="2.5" transform="translate(625 1213)" fill="#12263f"/>
@@ -111,13 +111,13 @@
     <g transform="matrix(1, 0, 0, 1, 422.5, 533.54)" filter="url(#Trazado_150750)">
       <path id="Trazado_150750-2" data-name="Trazado 150750" d="M184.638,133.861A71.406,71.406,0,1,1,84.289,145.171a71.406,71.406,0,0,1,100.349-11.309" transform="translate(-26.15 256.27)" fill="#f7f7f7" stroke="#fff" stroke-width="5"/>
     </g>
-    <text id="Propiedad_de_los_objetos_postales" data-name="Propiedad de los objetos postales" transform="translate(738 625)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Propiedad de los </tspan><tspan x="0" y="39">objetos postales</tspan></text>
-    <text id="Conservación_del_secreto" data-name="Conservación del secreto" transform="translate(1011 728)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-62.18" y="17">Conservación del </tspan><tspan x="-26.961" y="39">secreto</tspan></text>
-    <text id="Garantía_de_respeto" data-name="Garantía de respeto" transform="translate(1070 963)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-41.316" y="17">Garantía de </tspan><tspan x="-27.293" y="39">respeto</tspan></text>
-    <text id="Neutralidad" transform="translate(930 1151)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-41.789" y="17">Neutralidad</tspan></text>
-    <text id="Igualdad_de_trato" data-name="Igualdad de trato" transform="translate(683 1151)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-60.809" y="17">Igualdad de trato</tspan></text>
-    <text id="Presentación_de_condiciones" data-name="Presentación de condiciones" transform="translate(521 958)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-58.434" y="17">Presentación de </tspan><tspan x="-43.539" y="39">condiciones</tspan></text>
-    <text id="Indemnizaciones" transform="translate(526 738)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Indemnizaciones</tspan></text>
+    <text id="Propiedad_de_los_objetos_postales" data-name="Propiedad de los objetos postales" transform="translate(738 625)" fill="#12263f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Propiedad de los </tspan><tspan x="0" y="36">objetos postales</tspan></text>
+    <text id="Conservación_del_secreto" data-name="Conservación del secreto" transform="translate(1011 729)" fill="#12263f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-52.906" y="14">Conservación </tspan><tspan x="-42.242" y="36">del secreto</tspan></text>
+    <text id="Garantía_de_respeto" data-name="Garantía de respeto" transform="translate(1064 958)" fill="#12263f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-44.016" y="14">Garantía de </tspan><tspan x="-28.898" y="36">respeto</tspan></text>
+    <text id="Neutralidad" transform="translate(920 1153)" fill="#12263f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-44.008" y="14">Neutralidad</tspan></text>
+    <text id="Igualdad_de_trato" data-name="Igualdad de trato" transform="translate(675 1151)" fill="#12263f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-44.449" y="14">Igualdad de </tspan><tspan x="-17.777" y="36">trato</tspan></text>
+    <text id="Presentación_de_condiciones" data-name="Presentación de condiciones" transform="translate(535 958)" fill="#12263f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-61.801" y="14">Presentación de </tspan><tspan x="-46.676" y="36">condiciones</tspan></text>
+    <text id="Indemnizaciones" transform="translate(517 738)" fill="#12263f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Indemnizaciones</tspan></text>
     <g id="Grupo_145363" data-name="Grupo 145363" transform="translate(736.021 736.125)">
       <g id="Grupo_145039" data-name="Grupo 145039">
         <g id="Grupo_145038" data-name="Grupo 145038" clip-path="url(#clip-path)">

@@ -85,7 +85,6 @@
       .col-lg-2.mt-2
         img(src='@/assets/curso/tema2/img6.png', alt='Texto que describa la imagen')
     p.mt-4 Para las organizaciones es significativo tener claridad sobre las funciones que desarrolla su cliente interno dentro del proceso productivo o de prestación del servicio, así como tener claro las necesidades y prioridades que lo mueven, haciéndolo sentir importante dentro del engranaje de la organización.  
-    h3 Slider D
     SlyderD.mb-5(:datos="datosSlyder")
     .tarjeta.color-primario.p-3.mb-5
       .row.justify-content-around.align-items-center.p-2
@@ -97,7 +96,7 @@
             .col.mb-3.mb-sm-0
               p Para profundizar los conocimientos, se invita a revisar el material complementario, donde se puede visualizar el video <strong>“Cómo derretir al cliente interno”.</strong>
             .col-sm-auto
-              a.boton.color-acento-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-acento-botones.texto-blanco(:href="('https://www.youtube.com/embed/2Wsop8Jnd3w')" target="_blank")
                 span Ver más
                 i.fas.fa-link
 
@@ -110,7 +109,7 @@
         .tarjeta.tarjeta-slide.abajo.color-primario(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/sl1.png')})`}")
-              img.ps(src="@/assets/curso/tema2/sl1.png")            
+              img(src="@/assets/curso/tema2/sl1.png")            
             .tarjeta-slide__contenido.p-4.p-xl-5
               img.ps(src="@/assets/curso/tema2/ico1.svg")
               p.mb-0 <strong>Clientes proveedores</strong> 
@@ -124,7 +123,7 @@
               p.mb-0 <strong>Clientes propiamente dichos</strong> 
               p Es el grupo que adquiere los productos o servicios de la organización, pagan por estos y es el grupo al cual la empresa busca satisfacer las necesidades.
             .tarjeta-slide__contenido(:style="{'background-image': `url(${require('@/assets/curso/tema2/sl2.png')})`}")
-              img.ps(src="@/assets/curso/tema2/sl2.png")
+              img(src="@/assets/curso/tema2/sl2.png")
       .col-sm-6.col-xl-3.mb-4.mb-sm-0
         .tarjeta.tarjeta-slide.izquierda.color-primario(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
@@ -133,7 +132,7 @@
               p.mb-0 <strong>Entorno social</strong> 
               p Es el entorno de la organización, es decir, la sociedad que está rodeando la empresa.
             .tarjeta-slide__contenido(:style="{'background-image': `url(${require('@/assets/curso/tema2/sl3.png')})`}")
-              img.ps(src="@/assets/curso/tema2/sl3.png")
+              img(src="@/assets/curso/tema2/sl3.png")
     p Brindar atención al cliente de un modo eficaz es sencillamente saber cómo acercarse a cada uno de ellos, lograr su satisfacción con la atención que se les brinda, con el objetivo que no se presenten quejas y que se colmen las expectativas planteadas por el cliente.
 
 </template>
