@@ -5,7 +5,6 @@ export default {
       'Actualmente, la comercialización de productos a través de plataformas ha permitido el crecimiento de algunas organizaciones y el emprendimiento de muchas personas. El comercio electrónico ha unido las demandas y las ofertas en todos los sectores de la economía, esta unión demanda el apoyo de un tercer integrante en la cadena y es el prestador de servicios postales y transporte de mercancías.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
-    fondoBannerInterno: require('@/assets/curso/fondo-banner-interno.png'),
   },
   menuPrincipal: {
     menu: [

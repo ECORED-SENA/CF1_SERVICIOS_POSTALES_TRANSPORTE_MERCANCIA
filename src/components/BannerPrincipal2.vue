@@ -1,27 +1,32 @@
 <template lang="pug">
 .banner-principal
-  .container.tarjeta(
+  .container.tarjeta.position-relative(
     :style="{'background-image': globalData.fondoBannerPrincipal ? `url(${globalData.fondoBannerPrincipal})` : 'none'}"
   )
-    .row.banner-principal__row
-      .col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
-        .imagen_flotante_1: img(src='@/assets/curso/banner/img01.svg')
-        .imagen_flotante_2: img(src='@/assets/curso/banner/img02.svg')
+    .row.banner-principal__row.position-relative.justify-content-center.align-items-center
+      .col-lg-7.col-xxl-6.py-4.py-sm-5.banner-principal__info.ps-5
         .banner-principal__componente
           h1.mb-0(v-html="globalData.componenteFormativo")
-        .banner-principal__descripcion
-          p.mb-0(v-html="globalData.descripcionCurso")
+        .col-lg-12
+          .banner-principal__descripcion
+            p.mb-0(v-html="globalData.descripcionCurso")
         .banner-principal__accion
           router-link.boton(:to="{name: iniciarLnk.nombreRuta }")
-            span.me-1.text-white Ver más
-            i.fas.fa-angle-right.text-white
+            span.me-1 Ver más
+            i.fas.fa-angle-right
 
       .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
-        .contenedor-imagenes
-          .imagen_flotante_3: img(src='@/assets/curso/banner/img03.svg')
-          //- .imagen_flotante_4: img(src='@/assets/curso/float4.svg')
-          //- .imagen_flotante_5: img(src='@/assets/curso/float5.svg')
-          img(:src="globalData.imagenBannerPrincipal")
+        img(:src="globalData.imagenBannerPrincipal" style="width: 481px")
+    //.imagen_flotante_1: img(src="@/assets/curso/banner/img01.svg")
+    .imagen_flotante_2: img(src="@/assets/curso/banner/img01.svg")
+    .imagen_flotante_3: img(src="@/assets/curso/banner/img02.svg")
+    //.imagen_flotante_4.d-none.d-xl-block: img(src="@/assets/curso/banner/img01.svg")
+    //.imagen_flotante_5.d-none.d-xl-block: img(src="@/assets/curso/banner/img01.svg")
+    .imagen_flotante_6.d-none.d-xl-block: img(src="@/assets/curso/banner/img03.svg")
+    //.imagen_flotante_7: img(src="@/assets/curso/banner/img01.svg")
+    //.imagen_flotante_8: img(src="@/assets/curso/banner/img01.svg")
+  
+
 </template>
 
 <script>
@@ -38,6 +43,17 @@ export default {
 </script>
 
 <style lang="sass">
+.fondo-contenido
+  position: absolute
+  padding: 0px
+  z-index: 2
+  height: 100%
+  width: 100%
+.banner-principal__info
+  padding-left: 80px  !important
+  z-index: 3
+
+
 .banner-principal
   p, h1, h2, h3, h4, h5, h6
     color: $color-banner-text
@@ -59,7 +75,6 @@ export default {
 
   &__componente
     margin-bottom: 20px
-    z-index: 1000
     h1
       line-height: 1.1em
 
@@ -67,7 +82,6 @@ export default {
         font-size: 2em
 
   &__descripcion
-    z-index: 1000
     margin-bottom: 20px
 
   &__row
@@ -82,6 +96,7 @@ export default {
           padding-right: 3rem!important
 
   &__img
+    animation: scale 5s ease-in-out infinite alternate
     @if $banner-principal-img-y == 'arriba'
       align-self: flex-start
       padding-bottom: 1.5rem
@@ -99,51 +114,84 @@ export default {
       @media (min-width: $bp-min-sm)
         padding-top: 3rem!important
         padding-bottom: 3rem!important
-.contenedor-imagenes
-  position: relative
+
+
 .imagen_flotante
   &_1
-    animation: float 3s ease-out infinite alternate
+    animation: float1 3s ease-in-out infinite alternate
     position: absolute
-    width: 240px
-    top: 10%
-    left: -10%
+    width: 70px
+    bottom: 80px
+    left: -3%
   &_2
-    animation: float 2s ease-out infinite alternate
-    animation-delay: 1s
+    animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    transform-origin: top
-    width: 130px
-    left: 17%
-    bottom: -10%
+    width: 250px
+    top: 30px
+    left: -2%
   &_3
-    animation: float 2s ease-out infinite alternate
-    animation-delay: 0.8s
+    animation: float1 3.8s ease-in-out infinite alternate
     position: absolute
-    transform-origin: top
-    width: 220px
-    right: -30%
-    top: 20%
+    width: 120px
+    bottom: -20px
+    left: 25%
   &_4
-    animation: float 2s ease-out infinite alternate
-    animation-delay: 1.5s
+    animation: float1 4s ease-in-out infinite alternate
     position: absolute
-    transform-origin: top
-    width: 52px
-    left: 78%
-    top: 8%
+    width: 90px
+    top: -5%
+    left: 55%
+    z-index: 99
   &_5
-    animation: float 2s ease-out infinite alternate
-    animation-delay: 0.8s reverse
+    animation: float1 3.9s ease-in-out infinite alternate
     position: absolute
-    transform-origin: top
-    width: 42px
-    left: 90%
-    bottom: 15%
+    width: 40px
+    top: 3%
+    left: 30%
+    z-index: 99
+  &_6
+    filter: blur(2px)
+    animation: float1 2.7s ease-in-out infinite alternate
+    position: absolute
+    width: 200px
+    top: 23%
+    right: 0%
+    z-index: 99
+  &_7
+    animation: float1 2.5s ease-in-out infinite alternate
+    position: absolute
+    width: 50px
+    bottom: 10%
+    right: 3%
+    z-index: 99
+  &_8
+    filter: blur(1px)
 
-@keyframes float
+    animation: float1 3s ease-in-out infinite alternate
+    position: absolute
+    width: 50px
+    bottom: 20%
+    right: 8%
+    z-index: 99
+
+@keyframes float1
   0%
-    transform: translateY(0)
+    transform: translateY(20px)
+
   100%
-    transform: translateY(-15px)
+    transform: translateY(0px)
+@keyframes scale
+  0%
+    transform: scale(1)
+
+  100%
+    transform: scale(1)
+
+
+@media (max-width: $bp-max-md)
+  .fondo-contenido
+    display: none
+  .fondo-contenido2
+    background-repeat: no-repeat
+    background-size: cover
 </style>

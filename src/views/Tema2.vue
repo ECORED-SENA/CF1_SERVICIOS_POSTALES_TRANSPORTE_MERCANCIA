@@ -77,13 +77,46 @@
         p Se encuentran tres tipos de clientes internos:
       .col-lg-4
         img(src='@/assets/curso/tema2/img3.png', alt='Texto que describa la imagen')
-    .row.justify-content-center.style
-      .col-lg-2.mt-2
-        img(src='@/assets/curso/tema2/img4.png', alt='Texto que describa la imagen')
-      .col-lg-2.mt-2
-        img(src='@/assets/curso/tema2/img5.png', alt='Texto que describa la imagen')
-      .col-lg-2.mt-2
-        img(src='@/assets/curso/tema2/img6.png', alt='Texto que describa la imagen')
+    #MapaGroup01.row.justify-content-center.p-4.mb-4
+      .col-lg-2.col-sm-4.mb-4
+        button.buttom.color-primario.p-3.w-100.position-relative(data-bs-toggle='collapse' data-bs-target='.multi-collapse1' aria-expanded='true' aria-controls='.multi-collapse1')
+          .row.justify-content-center
+            .col-lg-12.col-sm-6.mb-4
+              img(src='@/assets/curso/tema2/img4.png')
+      .col-lg-2.col-sm-4.mb-4
+        button.buttom.color-primario.p-3.w-100.position-relative(data-bs-toggle='collapse' data-bs-target='.multi-collapse2' aria-expanded='true' aria-controls='.multi-collapse2')
+          .row.justify-content-center
+            .col-lg-12.col-sm-6.mb-4
+              img(src='@/assets/curso/tema2/img5.png')
+      .col-lg-2.col-sm-4.mb-4
+        button.buttom.color-primario.p-3.w-100.position-relative(data-bs-toggle='collapse' data-bs-target='.multi-collapse3' aria-expanded='true' aria-controls='.multi-collapse3')
+          .row.justify-content-center
+            .col-lg-12.col-sm-6.mb-4
+              img(src='@/assets/curso/tema2/img6.png')
+      
+      .col-lg-12.justify-content-center
+        .multi-collapse1.collapse.show(data-bs-parent='#MapaGroup01')
+          .row.mb-4.justify-content-center
+            .col-lg-4
+              .titulo-sexto.color-secundario
+                p Son los colaboradores de la organización que tienen cargos directivos.
+      .col-lg-12.justify-content-center
+        .multi-collapse2.collapse(data-bs-parent='#MapaGroup01')
+          .row.mb-4.justify-content-center
+            .col-lg-4
+              .titulo-sexto.color-primario
+                p Son los clientes internos que se encargan de la producción de cada uno de los productos o la prestación del servicio, tienen contacto directo con el cliente externo, por ejemplo: vendedores, técnicos, electricistas, transportadores, etc.
+      .col-lg-12.justify-content-center
+        .multi-collapse3.collapse(data-bs-parent='#MapaGroup01')
+          .row.mb-4.justify-content-center
+            .col-lg-4
+              .titulo-sexto.color-acento-contenido
+                p Son los clientes encargados del direccionamiento de las personas  y de las operaciones en la organización. 
+
+
+      
+
+
     p.mt-4 Para las organizaciones es significativo tener claridad sobre las funciones que desarrolla su cliente interno dentro del proceso productivo o de prestación del servicio, así como tener claro las necesidades y prioridades que lo mueven, haciéndolo sentir importante dentro del engranaje de la organización.  
     SlyderD.mb-5(:datos="datosSlyder")
     .tarjeta.color-primario.p-3.mb-5
