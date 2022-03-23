@@ -3,10 +3,10 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="zoom-in-up")
         span.text-white 2
       h1 Tipos de cliente
-    .row.mt-4.justify-content-center 
+    .row.mt-4.justify-content-center(data-aos="zoom-in-up") 
       .col-lg-9.mt-4
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mt-4
           .bloque-texto-g__img(
@@ -19,14 +19,14 @@
             p Definiendo cliente como la persona, empresa o entidad que adquiere un producto o servicio y realiza un pago por este; también se puede definir como “empresa o persona que recibe un bien o producto y genera un pago por este”. <strong>(Robles, 2019).</strong>
             <br><br>
     
-    .row.mt-4.justify-content-center
+    .row.mt-4.justify-content-center(data-aos="zoom-out-up")
       .col-lg-6.mt-4
         p <strong>Los clientes son la razón de ser de las organizaciones, sin clientes, las organizaciones no tendrían a quién venderles los productos o servicios, de hecho, no percibirían ingresos y, por tanto, no tendrían éxito en el mercado.</strong>
       .col-lg-6.mt-4
         p Los clientes son muy diferentes entre sí y las empresas trabajan en conocerlos, sus características y necesidades. Todos los clientes determinan las compras según factores como las experiencias pasadas, gustos personales, necesidades a satisfacer, valores de los productos o servicios, poder adquisitivo, entre otros.
 
     p Sin embargo, todos los clientes poseen unas características que permiten agruparlos; la empresa comprende mejor las necesidades y direcciona de forma más acertada sus ofertas. A continuación, puede ver los tipos de clientes que se presentan en la actualidad:
-    .row.mt-4.justify-content-center 
+    .row.mt-4.justify-content-center(data-aos="zoom-out-up")
       .col-lg-10.mt-4
         ImagenInfografica.color-secundario.mb-5
           template(v-slot:imagen)
@@ -67,10 +67,10 @@
             p.mb-0 <strong>Cliente leal</strong>
             p Cliente que es muy comprometido, crea un impacto positivo con la imagen de la empresa y la multiplica.
     
-    #t_2_1.titulo-segundo.color-acento-contenido
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
       h2 2.1 Cliente interno
 
-    .row.justify-content-center.mt-4
+    .row.justify-content-center.mt-4(data-aos="zoom-out-right")
       .col-lg-8.mt-4
         p Este cliente es el que está al interior de la organización, es parte activa en la producción o en la prestación de los servicios. Cada trabajador entrega un producto o servicio a otro trabajador y con ello toma la connotación de cliente interno, y es un proveedor de servicios a la organización, indiferente del grado de jerarquía que ocupe en la misma.
         p Uno de los principales agentes que puede generar valor al consumidor final es el cliente interno; la atención, el soporte al servicio que se presta, la empatía generan credibilidad, imagen y sostenibilidad a la organización. Partiendo de que el cliente interno realiza acciones de fidelización, se debe hacer seguimiento y  medir la satisfacción del personal y de los equipos de trabajo, analizando impresiones o percepciones, como capacidad de respuesta, productividad, comunicación y demás elementos relevantes que puedan afectar al cliente interno.
@@ -118,7 +118,7 @@
 
 
     p.mt-4 Para las organizaciones es significativo tener claridad sobre las funciones que desarrolla su cliente interno dentro del proceso productivo o de prestación del servicio, así como tener claro las necesidades y prioridades que lo mueven, haciéndolo sentir importante dentro del engranaje de la organización.  
-    SlyderD.mb-5(:datos="datosSlyder")
+    SlyderD.mb-5(:datos="datosSlyder")(data-aos="zoom-in")
     .tarjeta.color-primario.p-3.mb-5
       .row.justify-content-around.align-items-center.p-2
         .col-1
@@ -133,11 +133,11 @@
                 span Ver más
                 i.fas.fa-link
 
-    #t_2_2.titulo-segundo.color-acento-contenido
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in")
       h2 2.2 Cliente externo
     p Este término hace referencia a personas u organizaciones que adquieren, pagan y utilizan productos o servicios que tiene en el mercado una empresa o persona. Cuando una organización o persona crea un producto o servicio, busca satisfacer necesidades de los clientes externos, es importante tener en cuenta que los clientes externos son el origen o la fuente de los ingresos de las organizaciones, les  permiten el desarrollo, avance y trabajo, y esto es posible  a través de las compras, que generan  estabilidad económica a la organización o a la persona.
     p Se tienen grupos de clientes externos, estos son: 
-    .row.justify-content-center.mt-4.mb-5
+    .row.justify-content-center.mt-4.mb-5(data-aos="zoom-in-down")
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.abajo.color-primario(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor

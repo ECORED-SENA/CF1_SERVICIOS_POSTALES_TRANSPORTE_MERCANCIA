@@ -2,12 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="zoom-in-down")
       .titulo-principal__numero
         span.text-white 3
       h1 Estados del servicio al cliente frente a los servicios postales
     p Actualmente, las organizaciones tienen un gran compromiso con el proceso de servicio al cliente, incluso se ha instituido como política de servicio al cliente. El objetivo de esta política es garantizar la satisfacción de los clientes y que estos sean clientes constantes con la empresa, es decir, que sean clientes leales. Dentro de los estados del servicio al cliente frente a los servicios postales, se enumeran las premisas que la empresa prestadora del servicio debe garantizar al cliente:
-    .row.mt-4.justify-content-center 
+    .row.mt-4.justify-content-center(data-aos="zoom-in-left") 
       .col-lg-6.mt-4
         ImagenInfografica.color-secundario.mb-5
           template(v-slot:imagen)
@@ -30,22 +30,22 @@
             p Debe divulgar y dar a conocer las condiciones del servicio que ofrecen, en cuanto a frecuencias de rutas.
          
     p Las empresas de servicios postales y transporte de paquetes deben trabajar para garantizar los derechos de los destinatarios, como son:
-    .row.mt-4.justify-content-center 
+    .row.mt-4.justify-content-center(data-aos="zoom-in-left") 
       .col-lg-6.mt-4
         img(src='@/assets/curso/tema3/img2.svg', alt='Texto que describa la imagen')
-    #t_3_1.titulo-segundo.color-acento-contenido.mt-4
+    #t_3_1.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-out")
       h2 3.1 Protocolos de Servicio  
-    .row.mt-4.justify-content-center
+    .row.mt-4.justify-content-center(data-aos="zoom-out")
       .col-5
         p <strong>Es el documento que las organizaciones tienen establecido para la prestación del servicio al cliente, en él, se registran las actuaciones de los empleados o colaboradores en lo referente al proceso de atención o comercialización.</strong>
       .col-7
         p Los protocolos son las guías u orientaciones que describen detalladamente el proceso o la forma en que un colaborador debe actuar con el cliente al momento de realizar contacto, dicho protocolo se enmarca por los criterios y la visión de la organización respecto al buen servicio.
         p A continuación, puede observar un video, donde se explica el protocolo de atención al cliente:       
-    figure.mb-5
+    figure.mb-5(data-aos="zoom-out-up")
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/XYAVlOvXrnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    .row.mt-4.justify-content-center 
-      .col-lg-6.bg4.p-4
+    .row.mt-4.justify-content-center
+      .col-lg-6.bg4.p-4.aa(data-aos="zoom-out-up") 
         .col-12.p-4
           p Los protocolos de servicio al cliente son documentos controlados donde la organización registra el paso a paso que se debe seguir al realizar atención al cliente; el documento en su encabezado debe tener información como.
           .row.mt-4.justify-content-center           
@@ -66,7 +66,7 @@
 
 
 
-      .col-lg-6.bg3.p-4
+      .col-lg-6.bg3.p-4.bb(data-aos="zoom-out-left")
         .col-12.p-4
           p Los protocolos para atención presencial contienen el accionar del asesor o persona que atiende el cliente, en aspectos como:
           <br>
@@ -85,7 +85,7 @@
                     p Despedida, haciendo uso del protocolo y del guion establecido para el cierre del contacto.
     p.mt-4 También especifica el trato personal con el cliente, las expresiones faciales, postura corporal, presentación personal, comportamientos en los diferentes espacios de la organización y todas las demás acciones que se enmarcan en el proceso de atención.
 
-    .row.mt-4.p-4.bg1
+    .row.mt-4.p-4.bg1(data-aos="zoom-out-left")
       .col-lg-1
       .col-lg-3
         img(src='@/assets/curso/tema3/img3.svg', alt='Texto que describa la imagen')
@@ -100,7 +100,7 @@
             i.fas.fa-link
     p.mt-4 A continuación, se encuentra ejemplo de contenido de un protocolo de atención al cliente para atención telefónica.
     p <strong> Un protocolo de servicio al cliente para llamada telefónica contiene orientaciones en aspectos como:</strong>
-    .tarjeta.bg1.p-4.mb-5
+    .tarjeta.bg1.p-4.mb-5(data-aos="zoom-out-right")
       SlyderA
         .row.p-4
           .col-md-12.mb-4.mb-md-0.p-4
@@ -144,11 +144,11 @@
                 p <strong>k.</strong> Para terminar la llamada, agradecer al cliente por la llamada y que se espera atenderle nuevamente.
               li
                 p <strong>l.</strong> Esperar que el cliente termine la llamada y no cortarla si aún está hablando.
-    #t_3_2.titulo-segundo.color-acento-contenido.mt-4
+    #t_3_2.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-out-right")
       h2 3.2 Triángulo del servicio
     P El triángulo del servicio es una representación gráfica compuesta por elementos que permiten una mejor gestión de las organizaciones y la garantía de satisfacción del cliente; los elementos que integran esta representación son 4 y el principal es el cliente. Los elementos que integran la representación gráfica son:
     .row.mt-4.justify-content-center 
-      .col-lg-10.mt-4
+      .col-lg-10.mt-4(data-aos="zoom-in-left")
         img(src='@/assets/curso/tema3/img4.svg', alt='Texto que describa la imagen')
     <br>
     .tarjeta.color-primario.p-3.mb-5.mt-4
@@ -164,12 +164,12 @@
               a.boton.color-acento-acento-botones.texto-blanco(:href="('https://repository.unilibre.edu.co/bitstream/handle/10901/20095/PRINCIPALES%20EXPONENTES%20Y%20CONCEPTOS.pdf?sequence=1&isAllowed=yhttps://www.freepik.es/fotos-premium/todos-somos-rompecabezas-importante-trabajo_2047292.htm#page=1&query=grupos%20de%20trabajo&position=10&from_view=search')" target="_blank")
                 span Ver más
                 i.fas.fa-file-download
-    #t_3_3.titulo-segundo.color-acento-contenido.mt-4
+    #t_3_3.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-in-left")
       h2 3.3 Momentos de verdad
     p Conozca algunas definiciones:
     p <strong>Según Jan Carlzon.</strong> Como afirma el autor en su libro “El momento de la verdad”, una empresa orientada al producto puede ser reemplazada fácilmente por un nuevo competidor que ofrece un producto similar/igual a un costo menor. (Carlzon, 1996)
     .row.mt-4
-      .col-md-4
+      .col-md-4(data-aos="zoom-out-right")
         img(src='@/assets/curso/tema3/img5.png' alt='AvatarTop')
       .col-lg-8
         <br><br>
@@ -179,7 +179,7 @@
     p Los momentos de verdad, en sí, no generan una valoración positiva o negativa, lo que genera esta valoración es el manejo que se le dé al acercamiento con el cliente y que convierta dicho encuentro en una experiencia positiva. La organización debe anticiparse a la identificación y a la generación de posibles momentos de verdad, y dar el manejo, logrando experiencias positivas al cliente.  
     .row.mt-4
       .col-lg-12.p-4
-        .cajon.color-primario.p-4.mb-4
+        .cajon.color-primario.p-4.mb-4(data-aos="zoom-out-right")
           .col-lg-12.p-4
             p.mb-0 <strong>Reflexione sobre lo siguiente</strong>
             p Juan debe enviar un sobre con documentos desde la ciudad de Medellín a la ciudad de Bogotá. Los documentos deben estar en manos del destinatario antes de 24 horas. Juan se desplaza a la empresa <strong>Entrega Inmediata</strong>, que es una empresa de servicios postales y paquetería ubicada cerca de su lugar de trabajo, pero, al llegar a las oficinas de la empresa, encuentra que no tienen parqueadero disponible, los 4 parqueaderos asignados a sus clientes ya están ocupados y no puede ocupar los parqueaderos disponibles, el servicio de seguridad no se lo permite. Se ve en la obligación de desplazarse a la empresa <strong>Entrega Hora Exacta</strong> y, pese a que tampoco había parqueadero disponible asignado a la empresa, el servicio de seguridad le permitió ubicar el vehículo por un periodo de tiempo en otro parqueadero. Al llegar a la empresa, había varios clientes esperando atención, pero la empresa tiene habilitada una ventanilla de recepción de envíos catalogados como urgentes; este servicio tiene un valor un poco más alto que el habitual, pero garantiza la entrega oportuna. Juan tomó este servicio y agradeció la oportunidad. <strong>¿Cree usted que Juan obtuvo momentos de verdad?</strong>
@@ -189,11 +189,11 @@
         p <strong>El portafolio de servicios es una herramienta de la que dispone la empresa para dar a conocer los productos o servicios. </strong>
       .col-6
         p Se puede disponer de esta herramienta en formato impreso o en digital. En el caso de las empresas de envíos postales y mercancías, los portafolios de servicios contienen información como:
-    .row.mt-4.justify-content-center
+    .row.mt-4.justify-content-center(data-aos="zoom-out-down")
       .col-lg-10
         img(src='@/assets/curso/tema3/img6.svg' alt='AvatarTop')
     <br>
-    TabsB.color-acento-contenido.mb-5.mt-4
+    TabsB.color-acento-contenido.mb-5.mt-4(data-aos="zoom-out-down")
       .py-4.py-md-5(titulo="Trazabilidad" :icono="require('@/assets/curso/tema3/ico2.svg')")
         .row
           .col-md-7.mb-4.mb-md-0
@@ -215,7 +215,7 @@
             figure
               img(src='@/assets/curso/tema3/img8.png', alt='Texto que describa la imagen')
     p Las solicitudes que las organizaciones o personas realizan a las empresas de servicios postales y transporte de mercancías son las correspondientes al traslado de paquetes y de mercancías a través del uso de los recursos que la empresa tiene disponibles para la prestación del servicio y que este se haga dentro de parámetros de confiabilidad. Por lo tanto, se deben realizar controles en el proceso; estos controles los aplican tanto la empresa remitente como la prestadora del servicio. Esto permite conocer algunos de los controles disponibles:    
-    .row.mt-4
+    .row.mt-4(data-aos="zoom-out-down")
       .col-sm.mb-5.mb-sm-0.mt-4
         ol.lista-ol--cuadro.lista-ol--separador
           li 
@@ -233,7 +233,7 @@
             .lista-ol--cuadro__vineta
               span 3
             | Revisión de reportes del seguimiento y aplicación de controles a las inconformidades.
-    .row.mt-4.justify-content-center
+    .row.mt-4.justify-content-center(data-aos="zoom-out-left")
         .cajon.color-primario.p-4.mb-4
           .row.mt-4.justify-content-center
             .col-lg-1
@@ -243,7 +243,7 @@
               p Las entregas de los envíos postales o de mercancías se hacen según el protocolo y los tiempos establecidos para ello. Sin embargo, las empresas ofrecen algunos servicios que dan priorización, uno de ellos se llama servicio de mensajería expresa, es un servicio postal urgente, la prestación de este servicio exige la aplicación de unas condiciones diferentes y especiales en la recepción, recolección, clasificación, transporte y entrega; es importante considerar que este servicio es para envíos postales o mercancías de hasta máximo 5 kilos. <strong>(Superintendencia de Industria y Comercio, s. f.)</strong>
             .col-lg-1                      
     p Según los servicios de mensajería expresa, deben cumplir con las siguientes características: 
-    .row.mt-4
+    .row.mt-4(data-aos="zoom-out-left")
       .col-sm.mb-5.mb-sm-0.mt-4
         ol.lista-ol--cuadro.lista-ol--separador
           li 

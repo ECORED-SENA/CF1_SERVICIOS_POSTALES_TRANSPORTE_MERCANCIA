@@ -6,10 +6,10 @@
     .titulo-principal.color-acento-contenido    
       .titulo-principal__numero
         span
-          i.fas.fa-info
+          i.fas.fa-info.ss
       h1 Introducción
     
-    .row.mt-4
+    .row.mt-4(data-aos="zoom-in-up")
       .col-md-8
         <br><br>
         p <strong>El ser humano siempre busca satisfacer necesidades, con el transcurrir del tiempo, la forma de adquirir  productos para suplir dichas necesidades ha cambiado.</strong> En un comienzo, se debía desplazar a grandes distancias para adquirir productos;  luego, se crearon los centros de abastecimiento; y más adelante, dada la competencia entre quienes comercializaban productos o prestaban servicios, empezaron a ser segmentados por el cliente. Esta segmentación se generaba  según la atención que se recibiera y, con ello, se crea una nueva mirada para las ventas y la prestación del servicio, es lo que hoy se conoce como servicio al cliente.
@@ -18,7 +18,7 @@
         img(src='@/assets/curso/intro/img1.png' alt='AvatarTop')
 
     
-    figure.mb-5
+    figure.mb-5(data-aos="zoom-in-up")
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/aG6B7IrfdMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      figcaption Video: Leyenda del video
     
