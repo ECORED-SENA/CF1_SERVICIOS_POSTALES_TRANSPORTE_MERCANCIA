@@ -63,9 +63,6 @@
                   .col-md-12.mb-4.mb-md-0
                     p.mb-0 <strong>Política</strong>
                     p Los clientes accederán de forma rápida y precisa a la información y obtendrán el acompañamiento que necesiten por parte de la organización en el proceso que soliciten.                    
-
-
-
       .col-lg-6.bg3.p-4.bb(data-aos="zoom-out-left")
         .col-12.p-4
           p Los protocolos para atención presencial contienen el accionar del asesor o persona que atiende el cliente, en aspectos como:

@@ -121,7 +121,7 @@
           .row.justify-content-center.mb-3
           p.mb-0 <strong>Evaluar nivel de satisfacción</strong> 
           p Evaluar el nivel de satisfacción con los servicios prestados.
-          <br><br><br>
+          <br><br>
       .col-sm-6.col-lg-2.mb-4.mb-lg-0
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
