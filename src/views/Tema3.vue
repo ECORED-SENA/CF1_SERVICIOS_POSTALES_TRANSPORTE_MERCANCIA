@@ -44,8 +44,9 @@
     figure.mb-5(data-aos="zoom-out-up")
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/XYAVlOvXrnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    .row.mt-4.justify-content-center
-      .col-lg-6.bg4.p-4.aa(data-aos="zoom-out-up") 
+    .row.mt-4.justify-content-center  
+      .col-lg-5.bg4.p-4.aa(data-aos="zoom-out-up").wi
+
         .col-12.p-4
           p Los protocolos de servicio al cliente son documentos controlados donde la organización registra el paso a paso que se debe seguir al realizar atención al cliente; el documento en su encabezado debe tener información como.
           .row.mt-4.justify-content-center           
@@ -63,7 +64,8 @@
                   .col-md-12.mb-4.mb-md-0
                     p.mb-0 <strong>Política</strong>
                     p Los clientes accederán de forma rápida y precisa a la información y obtendrán el acompañamiento que necesiten por parte de la organización en el proceso que soliciten.                    
-      .col-lg-6.bg3.p-4.bb(data-aos="zoom-out-left")
+      .col-lg-1.wi2
+      .col-lg-5.bg3.p-4.bb(data-aos="zoom-out-left").wi
         .col-12.p-4
           p Los protocolos para atención presencial contienen el accionar del asesor o persona que atiende el cliente, en aspectos como:
           <br>
