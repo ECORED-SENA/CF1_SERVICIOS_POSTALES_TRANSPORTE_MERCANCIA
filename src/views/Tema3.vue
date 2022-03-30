@@ -41,16 +41,17 @@
       .col-7
         p Los protocolos son las guías u orientaciones que describen detalladamente el proceso o la forma en que un colaborador debe actuar con el cliente al momento de realizar contacto, dicho protocolo se enmarca por los criterios y la visión de la organización respecto al buen servicio.
         p A continuación, puede observar un video, donde se explica el protocolo de atención al cliente:       
-    figure.mb-5(data-aos="zoom-out-up")
+    <br>
+    figure.mb-5.mt-2(data-aos="zoom-out-up")
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/XYAVlOvXrnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     .row.mt-4.justify-content-center  
       .col-lg-5.bg4.p-4.aa(data-aos="zoom-out-up").wi
 
         .col-12.p-4
-          p Los protocolos de servicio al cliente son documentos controlados donde la organización registra el paso a paso que se debe seguir al realizar atención al cliente; el documento en su encabezado debe tener información como.
-          .row.mt-4.justify-content-center           
-            .tarjeta.fon1.p-4.mb-5
+          p.mb-0 Los protocolos de servicio al cliente son documentos controlados donde la organización registra el paso a paso que se debe seguir al realizar atención al cliente; el documento en su encabezado debe tener información como.
+          .row.justify-content-center           
+            .tarjeta.fon1.p-2
               SlyderF
                 .row
                   .col-md-12.mb-4.mb-md-0.p-5
@@ -67,10 +68,11 @@
       .col-lg-1.wi2
       .col-lg-5.bg3.p-4.bb(data-aos="zoom-out-left").wi
         .col-12.p-4
-          p Los protocolos para atención presencial contienen el accionar del asesor o persona que atiende el cliente, en aspectos como:
+          p.mb-0 Los protocolos para atención presencial contienen el accionar del asesor o persona que atiende el cliente, en aspectos como:
           <br>
-          .row.mt-4.justify-content-center           
-            .tarjeta.fon2.p-4.mb-5.mt-2
+          .row.justify-content-center           
+            .tarjeta.fon2.p-2.mt-4
+              
               SlyderF
                 .row
                   .col-md-12.mb-4.mb-md-0.p-5
@@ -99,50 +101,63 @@
             i.fas.fa-link
     p.mt-4 A continuación, se encuentra ejemplo de contenido de un protocolo de atención al cliente para atención telefónica.
     p <strong> Un protocolo de servicio al cliente para llamada telefónica contiene orientaciones en aspectos como:</strong>
-    .tarjeta.bg1.p-4.mb-5(data-aos="zoom-out-right")
-      SlyderA
-        .row.p-4
-          .col-md-12.mb-4.mb-md-0.p-4
-            ol.lista-ol--cuadro.lista-ol--separador.p-4            
-              li 
-                p <strong>a.</strong> El teléfono se debe responder al sonar entre una y tres veces.
-              li
-                p <strong>b.</strong> La forma de saludar al interlocutor.
-        .row.p-4
-          .col-md-12.mb-4.mb-md-0.p-4
-            ol.lista-ol--cuadro.lista-ol--separador.p-4           
-              li 
-                p <strong>c.</strong> La presentación de quien responde la llamada.
-              li
-                p <strong>d.</strong> Interrogar al cliente sobre la situación en la que se le puede ayudar.
-        .row.p-4
-          .col-md-12.mb-4.mb-md-0.p-4
-            ol.lista-ol--cuadro.lista-ol--separador.p-4           
-              li 
-                p <strong>e.</strong> Siempre se debe tratar al cliente de usted.
-              li
-                p <strong>f.</strong> Si se pone al cliente a esperar en la línea, se le debe informar cuánto tiempo promedio debe esperar.
-        .row.p-4
-          .col-md-12.mb-4.mb-md-0.p-4
-            ol.lista-ol--cuadro.lista-ol--separador.p-4           
-              li 
-                p <strong>g.</strong> Informar claramente al cliente por qué se va a dejar en espera, es decir, el motivo de la espera..
-              li
-                p <strong>h.</strong> En caso de que el cliente requiera una persona que no está presente en la compañía, se debe ofrecer la ayuda si es posible, de lo contrario, tomar nota del mensaje o transferir la llamada a quien pueda prestar ayuda.
-        .row.p-4
-          .col-md-12.mb-4.mb-md-0.p-4
-            ol.lista-ol--cuadro.lista-ol--separador.p-4           
-              li 
-                p <strong>i.</strong> La llamada se debe responder en un tono adecuado y con buena vocalización.
-              li
-                p <strong>j.</strong> Si la llamada se transfiere a otra persona, se debe informar a quien la recibe quién llama y cuál es el motivo de la llamada.
-        .row.p-4
-          .col-md-12.mb-4.mb-md-0.p-4
-            ol.lista-ol--cuadro.lista-ol--separador.p-4           
-              li 
-                p <strong>k.</strong> Para terminar la llamada, agradecer al cliente por la llamada y que se espera atenderle nuevamente.
-              li
-                p <strong>l.</strong> Esperar que el cliente termine la llamada y no cortarla si aún está hablando.
+    .row.mt-4(data-aos="zoom-in-up")
+      .col-sm.mb-5.mb-sm-0.mt-4
+        ol.lista-ol--cuadro.lista-ol--separador
+          li 
+            .lista-ol--cuadro__vineta
+              span 1
+            | El teléfono se debe responder al sonar entre una y tres veces.
+
+
+          li 
+            .lista-ol--cuadro__vineta
+              span 2
+            | La forma de saludar al interlocutor.
+
+          li 
+            .lista-ol--cuadro__vineta
+              span 3
+            | La presentación de quien responde la llamada.
+
+          li 
+            .lista-ol--cuadro__vineta
+              span 4
+            | Interrogar al cliente sobre la situación en la que se le puede ayudar.
+          li 
+            .lista-ol--cuadro__vineta
+              span 5
+            | Siempre se debe tratar al cliente de usted.
+          li 
+            .lista-ol--cuadro__vineta
+              span 6
+            | Si se pone al cliente a esperar en la línea, se le debe informar cuánto tiempo promedio debe esperar.
+          li 
+            .lista-ol--cuadro__vineta
+              span 7
+            |  Informar claramente al cliente por qué se va a dejar en espera, es decir, el motivo de la espera..                             
+          li 
+            .lista-ol--cuadro__vineta
+              span 8
+            |  En caso de que el cliente requiera una persona que no está presente en la compañía, se debe ofrecer la ayuda si es posible, de lo contrario, tomar nota del mensaje o transferir la llamada a quien pueda prestar ayuda.                           
+          li 
+            .lista-ol--cuadro__vineta
+              span 9
+            |  La llamada se debe responder en un tono adecuado y con buena vocalización.
+          li 
+            .lista-ol--cuadro__vineta
+              span 10
+            | Si la llamada se transfiere a otra persona, se debe informar a quien la recibe quién llama y cuál es el motivo de la llamada.
+          li 
+            .lista-ol--cuadro__vineta
+              span 11
+            |  Para terminar la llamada, agradecer al cliente por la llamada y que se espera atenderle nuevamente.
+          li 
+            .lista-ol--cuadro__vineta
+              span 12
+            |  Esperar que el cliente termine la llamada y no cortarla si aún está hablando.
+
+
     #t_3_2.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-out-right")
       h2 3.2 Triángulo del servicio
     P El triángulo del servicio es una representación gráfica compuesta por elementos que permiten una mejor gestión de las organizaciones y la garantía de satisfacción del cliente; los elementos que integran esta representación son 4 y el principal es el cliente. Los elementos que integran la representación gráfica son:
@@ -154,14 +169,14 @@
       .row.justify-content-around.align-items-center.p-2
         .col-1
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/tema3/ico1.svg")
+          img(src="@/assets/curso/tema1/ico1.svg")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               p Los anteriores elementos deben trabajar de forma colaborativa y de forma constructiva. Todo procedimiento de servicio al cliente se debe diseñar teniendo como base los clientes.
             .col-sm-auto
               a.boton.color-acento-acento-botones.texto-blanco(:href="('https://repository.unilibre.edu.co/bitstream/handle/10901/20095/PRINCIPALES%20EXPONENTES%20Y%20CONCEPTOS.pdf?sequence=1&isAllowed=yhttps://www.freepik.es/fotos-premium/todos-somos-rompecabezas-importante-trabajo_2047292.htm#page=1&query=grupos%20de%20trabajo&position=10&from_view=search')" target="_blank")
-                span Ver más
+                span Descargar
                 i.fas.fa-file-download
     #t_3_3.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-in-left")
       h2 3.3 Momentos de verdad
@@ -171,7 +186,7 @@
       .col-md-4(data-aos="zoom-out-right")
         img(src='@/assets/curso/tema3/img5.png' alt='AvatarTop')
       .col-lg-8
-        <br><br>
+        <br><br><br>
         p El autor Jan Carlzon, en el libro <strong>“Momento de la verdad”</strong>, refiere una forma distinta de gestionar organizaciones, Jan Carlzon invierte la pirámide jerárquica que tradicionalmente establecen las organizaciones y en la cual los directivos y ejecutivos ocupan la cima y quienes tienen contacto directo con los clientes ocupan la base piramidal.
 
         p Debido a los cambios y crecimiento de los mercados y al incremento de la competencia, es primordial que las organizaciones se concentren en el cliente y no en el producto; de esta manera, pueden diseñar productos dirigidos a satisfacer las necesidades de los clientes. Una empresa u organización orientada al cliente genera mayores oportunidades para fidelizar al cliente y permite la generación de ingresos para la sostenibilidad y permanencia en el mercado.   (Carlzon, 1996)
@@ -179,7 +194,7 @@
     .row.mt-4
       .col-lg-12.p-4
         .cajon.color-primario.p-4.mb-4(data-aos="zoom-out-right")
-          .col-lg-12.p-4
+          .col-lg-11.p-4
             p.mb-0 <strong>Reflexione sobre lo siguiente</strong>
             p Juan debe enviar un sobre con documentos desde la ciudad de Medellín a la ciudad de Bogotá. Los documentos deben estar en manos del destinatario antes de 24 horas. Juan se desplaza a la empresa <strong>Entrega Inmediata</strong>, que es una empresa de servicios postales y paquetería ubicada cerca de su lugar de trabajo, pero, al llegar a las oficinas de la empresa, encuentra que no tienen parqueadero disponible, los 4 parqueaderos asignados a sus clientes ya están ocupados y no puede ocupar los parqueaderos disponibles, el servicio de seguridad no se lo permite. Se ve en la obligación de desplazarse a la empresa <strong>Entrega Hora Exacta</strong> y, pese a que tampoco había parqueadero disponible asignado a la empresa, el servicio de seguridad le permitió ubicar el vehículo por un periodo de tiempo en otro parqueadero. Al llegar a la empresa, había varios clientes esperando atención, pero la empresa tiene habilitada una ventanilla de recepción de envíos catalogados como urgentes; este servicio tiene un valor un poco más alto que el habitual, pero garantiza la entrega oportuna. Juan tomó este servicio y agradeció la oportunidad. <strong>¿Cree usted que Juan obtuvo momentos de verdad?</strong>
     
@@ -194,11 +209,12 @@
     <br>
     TabsB.color-acento-contenido.mb-5.mt-4(data-aos="zoom-out-down")
       .py-4.py-md-5(titulo="Trazabilidad" :icono="require('@/assets/curso/tema3/ico2.svg')")
+        p <strong>Trazabilidad</strong>
+
         .row
           .col-md-7.mb-4.mb-md-0
-            p <strong>Trazabilidad</strong>
             p Las empresas de servicio o de producción deben estructurar procesos de trazabilidad, esto les permite hacer un rastreo que va desde la compra de materias primas e insumos, hasta la producción y la entrega; tiene como objetivo controlar todos y cada uno de los procesos de producción, asegurar la calidad y el óptimo estado de los productos, desde el origen hasta entregarlo al consumidor final. En las empresas de servicios postales, la trazabilidad va desde la recepción del paquete o mercancía por parte del remitente, hasta la entrega al destinatario.
-            p Se tienen dos tipos de trazabilidad: la trazabilidad interna y la trazabilidad externa. Cuando se habla de la trazabilidad interna, se hace referencia al registro que deja un producto cuando avanza por los procesos internos de la organización, lo que incluye las máquinas utilizadas, turnos, almacenajes, disposición para carga y demás procesos. Por consiguiente, la trazabilidad externa son los procesos implementados para obtener información entre la cadena de abastecimiento o suministro.
+            p Se tienen dos tipos de trazabilidad: la trazabilidad interna y la trazabilidad externa. Cuando se habla de la <STRONG>trazabilidad interna,</strong> se hace referencia al registro que deja un producto cuando avanza por los procesos internos de la organización, lo que incluye las máquinas utilizadas, turnos, almacenajes, disposición para carga y demás procesos. Por consiguiente, la <strong>trazabilidad externa</strong> son los procesos implementados para obtener información entre la cadena de abastecimiento o suministro.
         
           .col-md-5
             figure
@@ -235,12 +251,12 @@
     .row.mt-4.justify-content-center(data-aos="zoom-out-left")
         .cajon.color-primario.p-4.mb-4
           .row.mt-4.justify-content-center
-            .col-lg-1
             .col-lg-2
               img(src='@/assets/curso/tema3/img9.svg', alt='Texto que describa la imagen')
+            .col-lg-1
             .col-lg-8
               p Las entregas de los envíos postales o de mercancías se hacen según el protocolo y los tiempos establecidos para ello. Sin embargo, las empresas ofrecen algunos servicios que dan priorización, uno de ellos se llama servicio de mensajería expresa, es un servicio postal urgente, la prestación de este servicio exige la aplicación de unas condiciones diferentes y especiales en la recepción, recolección, clasificación, transporte y entrega; es importante considerar que este servicio es para envíos postales o mercancías de hasta máximo 5 kilos. <strong>(Superintendencia de Industria y Comercio, s. f.)</strong>
-            .col-lg-1                      
+                                
     p Según los servicios de mensajería expresa, deben cumplir con las siguientes características: 
     .row.mt-4(data-aos="zoom-out-left")
       .col-sm.mb-5.mb-sm-0.mt-4

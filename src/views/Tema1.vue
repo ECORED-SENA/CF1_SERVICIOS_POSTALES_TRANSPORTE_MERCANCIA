@@ -42,7 +42,7 @@
     .row.mt-4.justify-content-center(data-aos="zoom-in-up")
       .col-lg-6    
         .titulo-sexto.color-acento-contenido
-          h5 Deficiente atención al cliente
+          h5 Deficiente servicio al cliente
 
         img.hove2(src='@/assets/curso/tema1/img3.svg' alt='AvatarTop')    
     .row-md-12.mt-4
@@ -99,41 +99,41 @@
       p.mt-4 Para prestar un adecuado proceso de servicio al cliente, las empresas deben trabajar en: 
     .row.mb-5
       .col-sm-6.col-lg-2.mb-4.mb-lg-0
-        .tarjeta--boton.color-primario.p-4
+        .tarjeta--boton.color-primario.p-3
           .row.justify-content-center.mb-3
           p.mb-0 <strong>Perfiles de clientes</strong> 
           p Tener conocimiento de los perfiles de los clientes.
-          <br><br>
+          <br><br><br><br>
       .col-sm-6.col-lg-2.mb-4.mb-lg-0
-        .tarjeta--boton.color-primario.p-4
+        .tarjeta--boton.color-primario.p-3
           .row.justify-content-center.mb-3
           p.mb-0 <strong>Bases de datos de los clientes</strong> 
           p Disponer de bases de datos de los clientes
           <br><br><br>
       .col-sm-6.col-lg-2.mb-4.mb-lg-0
-        .tarjeta--boton.color-primario.p-4
+        .tarjeta--boton.color-primario.p-3
           .row.justify-content-center.mb-3
           p.mb-0 <strong>Investigación sobre los clientes</strong> 
           p Desarrollar investigaciones sobre los clientes, buscando conocer sus necesidades.
           <br>
       .col-sm-6.col-lg-2.mb-4.mb-lg-0
-        .tarjeta--boton.color-primario.p-4
+        .tarjeta--boton.color-primario.p-3
           .row.justify-content-center.mb-3
           p.mb-0 <strong>Evaluar nivel de satisfacción</strong> 
           p Evaluar el nivel de satisfacción con los servicios prestados.
-          <br><br>
+          <br><br><br>
       .col-sm-6.col-lg-2.mb-4.mb-lg-0
-        .tarjeta--boton.color-primario.p-4
+        .tarjeta--boton.color-primario.p-3
           .row.justify-content-center.mb-3
           p.mb-0 <strong>Implementación de auditorías</strong> 
           p Implementar constantemente auditorías de los servicios.
           <br><br>
       .col-sm-6.col-lg-2.mb-4.mb-lg-0
-        .tarjeta--boton.color-primario.p-4
+        .tarjeta--boton.color-primario.p-3
           .row.justify-content-center.mb-3
           p.mb-0 <strong>Acciones de mejora</strong> 
           p Desarrollar acciones de mejora.
-          <br><br><br>             
+          <br><br><br><br><br>           
     #t_1_2.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-in-up")
       h2 1.2 Procedimiento del servicio      
     p Las organizaciones, ya sea empresa de producción, comercialización o servicios, establecen procesos de servicio al cliente con el objeto de establecer contacto con este y atender las peticiones, quejas, reclamos y las felicitaciones, pues no siempre los clientes llaman para interponer quejas. En muchas ocasiones, el cliente interno trabaja en brindar una buena atención en el engranaje organizacional, ya que activa cumpliendo el proceso de servicio de forma satisfactoria.
@@ -145,24 +145,25 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            | Las organizaciones deben tener definidos y establecidos los medios y/o las herramientas disponibles para el proceso de servicio al cliente, generalmente, es correo electrónico, línea telefónica, formato para trámite de forma presencial. 
-
+            p Las organizaciones deben tener definidos y establecidos los medios y/o las herramientas disponibles para el proceso de servicio al cliente, generalmente, es correo electrónico, línea telefónica, formato para trámite de forma presencial. 
           li 
             .lista-ol--cuadro__vineta
               span 2
-            | Definir el tiempo de respuesta, para ello, se tiene establecido como tiempo 15 días hábiles.
+            p Definir el tiempo de respuesta, para ello, se tiene establecido como tiempo 15 días hábiles.
 
           li 
             .lista-ol--cuadro__vineta
-              span 3
-            | El formato debe contener información como: <br>
-            | a. Fecha de recepción. <br> 
-            | b. Datos del solicitante o peticionario. <br> 
-            | c. Nombres y Apellidos <br> 
-            | d. Documento de identidad y Tipo de documento <br> 
-            | e. Datos de contacto, así: dirección de correspondencia, correo electrónico, números telefónicos.  <br> 
-            | f. Espacio amplio y suficiente para que se registre la situación presentada o se haga la descripción de los hechos.   <br> 
-            | g. Espacio para la firma del peticionario. Es importante tener en cuenta que, en ocasiones, se presentan solicitudes en anónimo. En ese caso, la empresa debe tener definido el procedimiento para dar la respuesta y, de hecho, no se diligencian los datos del peticionario y se debe registrar que es una petición anónima.(MinTIC, 2020)
+              span 3 
+            .col-lg-12             
+              p.mb-1 El formato debe contener información como: <br>
+              P.mb-1 <strong>a.</strong> Fecha de recepción. <br> 
+              P.mb-1 <strong>b.</strong> Datos del solicitante o peticionario. <br> 
+              P.mb-1 <strong>c.</strong> Nombres y Apellidos <br> 
+              P.mb-1 <strong>d.</strong> Documento de identidad y Tipo de documento <br> 
+              P.mb-1 <strong>e.</strong> Datos de contacto, así: dirección de correspondencia, correo electrónico, números telefónicos.  <br> 
+              P.mb-1 <strong>f.</strong> Espacio amplio y suficiente para que se registre la situación presentada o se haga la descripción de los hechos.   <br> 
+              P <strong>g.</strong> Espacio para la firma del peticionario. Es importante tener en cuenta que, en ocasiones, se presentan solicitudes en anónimo. En ese caso, la empresa debe tener definido el procedimiento para dar la respuesta y, de hecho, no se diligencian los datos del peticionario y se debe registrar que es una petición anónima.<strong>(MinTIC, 2020)</strong>
+      
     .row.mt-4.justify-content-center
       .col-lg-8.mt-4
         p.mt-4 En ocasiones, se encuentra que, pese al esfuerzo realizado por los clientes internos de la organización, el cliente externo manifiesta inconformidad y presenta una queja. Por ello, siempre se debe escuchar con amabilidad, respeto y cortesía, incluso, el cliente interno debe conservar la serenidad y el profesionalismo, pese a que en ocasiones el cliente externo se manifieste incomprendido e incómodo. 

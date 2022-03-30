@@ -242,7 +242,7 @@ export default {
       texto:
         '2.1 Cliente interno, (1998). Bien Pensado. (2018). Cómo derretir al cliente interno [Video]. YouTube. https://www.youtube.com/watch?v=2Wsop8Jnd3w',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=2Wsop8Jnd3w',
+      link: 'https://www.youtube.com/watch?v=2Wsop8Jnd3w',
     },
     {
       texto:
@@ -254,7 +254,7 @@ export default {
       texto:
         '3.2 Protocolo de servicio al cliente para llamadas.Vivianamilagro Veracaamaño. (2017). Etiqueta Telefónica [Video]. YouTube. https://youtu.be/aza8VUDHYmo',
       tipo: 'Video',
-      link: '/https://youtu.be/aza8VUDHYmo',
+      link: 'https://youtu.be/aza8VUDHYmo',
     },
     {
       texto:
@@ -292,7 +292,7 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'María Natalia Maldonado Delgado        ',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
@@ -304,29 +304,19 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: '',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar        ',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

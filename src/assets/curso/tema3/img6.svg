@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1097.92" height="365" viewBox="0 0 1097.92 365">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1070.92" height="365" viewBox="0 0 1070.92 365">
   <defs>
     <clipPath id="clip-path">
       <path id="Trazado_150608" data-name="Trazado 150608" d="M374.378,124.286A49.122,49.122,0,1,0,423.5,75.106a49.152,49.152,0,0,0-49.122,49.18" transform="translate(-374.378 -75.106)" fill="none"/>
@@ -35,56 +35,56 @@
       <path id="Trazado_150622" data-name="Trazado 150622" d="M24.963,124.286a49.122,49.122,0,1,0,49.122-49.18,49.152,49.152,0,0,0-49.122,49.18" transform="translate(-24.963 -75.106)" fill="none"/>
     </clipPath>
     <linearGradient id="linear-gradient-8" x1="-0.047" y1="1.435" x2="-0.039" y2="1.435" xlink:href="#linear-gradient"/>
-    <filter id="Trazado_150623" x="0" y="97.565" width="174" height="174" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_150623" x="0" y="101.565" width="174" height="174" filterUnits="userSpaceOnUse">
       <feOffset dx="5" dy="5" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="12.5" result="blur"/>
       <feFlood flood-opacity="0.063"/>
       <feComposite operator="in" in2="blur"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Trazado_150687" x="123.132" y="96.385" width="174" height="174" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_150687" x="123.132" y="100.385" width="174" height="174" filterUnits="userSpaceOnUse">
       <feOffset dx="5" dy="5" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="12.5" result="blur-2"/>
       <feFlood flood-opacity="0.063"/>
       <feComposite operator="in" in2="blur-2"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Trazado_150688" x="251.015" y="96.385" width="174" height="174" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_150688" x="251.015" y="100.385" width="174" height="174" filterUnits="userSpaceOnUse">
       <feOffset dx="5" dy="5" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="12.5" result="blur-3"/>
       <feFlood flood-opacity="0.063"/>
       <feComposite operator="in" in2="blur-3"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Trazado_150689" x="375.28" y="96.385" width="174" height="174" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_150689" x="375.28" y="100.385" width="174" height="174" filterUnits="userSpaceOnUse">
       <feOffset dx="5" dy="5" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="12.5" result="blur-4"/>
       <feFlood flood-opacity="0.063"/>
       <feComposite operator="in" in2="blur-4"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Trazado_150690" x="501.101" y="96.385" width="174" height="174" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_150690" x="501.101" y="100.385" width="174" height="174" filterUnits="userSpaceOnUse">
       <feOffset dx="5" dy="5" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="12.5" result="blur-5"/>
       <feFlood flood-opacity="0.063"/>
       <feComposite operator="in" in2="blur-5"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Trazado_150691" x="625.428" y="96.385" width="174" height="174" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_150691" x="625.428" y="100.385" width="174" height="174" filterUnits="userSpaceOnUse">
       <feOffset dx="5" dy="5" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="12.5" result="blur-6"/>
       <feFlood flood-opacity="0.063"/>
       <feComposite operator="in" in2="blur-6"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Trazado_150692" x="751.452" y="96.385" width="174" height="174" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_150692" x="751.452" y="100.385" width="174" height="174" filterUnits="userSpaceOnUse">
       <feOffset dx="5" dy="5" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="12.5" result="blur-7"/>
       <feFlood flood-opacity="0.063"/>
       <feComposite operator="in" in2="blur-7"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Trazado_150693" x="876.354" y="96.385" width="174" height="174" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_150693" x="876.354" y="100.385" width="174" height="174" filterUnits="userSpaceOnUse">
       <feOffset dx="5" dy="5" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="12.5" result="blur-8"/>
       <feFlood flood-opacity="0.063"/>
@@ -116,17 +116,17 @@
       <rect id="Rectángulo_38753" data-name="Rectángulo 38753" width="41.077" height="44" fill="#ffce5a"/>
     </clipPath>
   </defs>
-  <g id="Grupo_145346" data-name="Grupo 145346" transform="translate(-280.08 -6458)">
+  <g id="Grupo_145346" data-name="Grupo 145346" transform="translate(-280.08 -6454)">
     <g id="Grupo_145345" data-name="Grupo 145345">
       <g id="Grupo_145315" data-name="Grupo 145315">
-        <text id="Misión_" data-name="Misión " transform="translate(356 6458)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-26.007" y="16">Misión </tspan></text>
-        <text id="Recursos" transform="translate(619 6458)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-38.013" y="16">Recursos</tspan></text>
-        <text id="Reconocimientos" transform="translate(855 6458)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-69.034" y="16">Reconocimientos</tspan></text>
-        <text id="Servicios" transform="translate(1125 6458)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-36.51" y="16">Servicios</tspan></text>
-        <text id="Visión" transform="translate(495 6779)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-24.35" y="16">Visión</tspan></text>
-        <text id="Alianzas_estratégicas" data-name="Alianzas estratégicas" transform="translate(746 6779)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-34.018" y="16">Alianzas </tspan><tspan x="-48.524" y="40">estratégicas</tspan></text>
-        <text id="Labor_Social" data-name="Labor Social" transform="translate(980 6779)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-50.032" y="16">Labor Social</tspan></text>
-        <text id="Información_de_contacto" data-name="Información de contacto" transform="translate(1252 6777)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-59.533" y="16">Información de </tspan><tspan x="-34.022" y="40">contacto</tspan></text>
+        <text id="Misión_" data-name="Misión " transform="translate(370 6454)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-26.007" y="16">Misión </tspan></text>
+        <text id="Recursos" transform="translate(622 6454)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-38.013" y="16">Recursos</tspan></text>
+        <text id="Reconocimientos" transform="translate(849 6454)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-69.034" y="16">Reconocimientos</tspan></text>
+        <text id="Servicios" transform="translate(1120 6454)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-36.51" y="16">Servicios</tspan></text>
+        <text id="Visión" transform="translate(497 6775)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-24.35" y="16">Visión</tspan></text>
+        <text id="Alianzas_estratégicas" data-name="Alianzas estratégicas" transform="translate(728 6775)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-34.018" y="16">Alianzas </tspan><tspan x="-48.524" y="40">estratégicas</tspan></text>
+        <text id="Labor_social" data-name="Labor social" transform="translate(987 6775)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-48.529" y="16">Labor social</tspan></text>
+        <text id="Información_de_contacto" data-name="Información de contacto" transform="translate(1225 6775)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="-59.533" y="16">Información de </tspan><tspan x="-34.022" y="40">contacto</tspan></text>
         <g id="Grupo_145314" data-name="Grupo 145314" transform="translate(0 75)">
           <path id="Trazado_150588" data-name="Trazado 150588" d="M187.526,245.248a5.312,5.312,0,0,1-1.078-10.514V191.271a1.078,1.078,0,0,1,2.156,0v43.463a5.312,5.312,0,0,1-1.078,10.514" transform="translate(299.257 6446.284)" fill="#ffe3a7"/>
           <path id="Trazado_150589" data-name="Trazado 150589" d="M420.321,245.248a5.312,5.312,0,0,1-1.078-10.514V191.271a1.078,1.078,0,0,1,2.156,0v43.463a5.312,5.312,0,0,1-1.078,10.514" transform="translate(317.472 6446.284)" fill="#ffa298"/>
@@ -192,29 +192,29 @@
           <path id="Trazado_150625" data-name="Trazado 150625" d="M303.924,0a5.312,5.312,0,0,0-1.078,10.514V53.977a1.078,1.078,0,0,0,2.156,0V10.514A5.312,5.312,0,0,0,303.924,0" transform="translate(308.364 6431.403)" fill="#ff8578"/>
           <path id="Trazado_150626" data-name="Trazado 150626" d="M536.719,0a5.312,5.312,0,0,0-1.078,10.514V53.977a1.078,1.078,0,0,0,2.157,0V10.514A5.312,5.312,0,0,0,536.719,0" transform="translate(326.579 6431.403)" fill="#5263e2"/>
           <path id="Trazado_150627" data-name="Trazado 150627" d="M774.826,5.313a5.312,5.312,0,1,0-6.39,5.2V53.977a1.078,1.078,0,0,0,2.157,0V10.514a5.313,5.313,0,0,0,4.233-5.2" transform="translate(344.794 6431.403)" fill="#43a99b"/>
-          <g transform="matrix(1, 0, 0, 1, 280.08, 6383)" filter="url(#Trazado_150623)">
-            <path id="Trazado_150623-2" data-name="Trazado 150623" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(7.05 54.47)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
+          <g transform="matrix(1, 0, 0, 1, 280.08, 6379)" filter="url(#Trazado_150623)">
+            <path id="Trazado_150623-2" data-name="Trazado 150623" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(7.05 58.47)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
           </g>
-          <g transform="matrix(1, 0, 0, 1, 280.08, 6383)" filter="url(#Trazado_150687)">
-            <path id="Trazado_150687-2" data-name="Trazado 150687" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(130.18 53.29)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
+          <g transform="matrix(1, 0, 0, 1, 280.08, 6379)" filter="url(#Trazado_150687)">
+            <path id="Trazado_150687-2" data-name="Trazado 150687" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(130.18 57.29)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
           </g>
-          <g transform="matrix(1, 0, 0, 1, 280.08, 6383)" filter="url(#Trazado_150688)">
-            <path id="Trazado_150688-2" data-name="Trazado 150688" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(258.07 53.29)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
+          <g transform="matrix(1, 0, 0, 1, 280.08, 6379)" filter="url(#Trazado_150688)">
+            <path id="Trazado_150688-2" data-name="Trazado 150688" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(258.07 57.29)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
           </g>
-          <g transform="matrix(1, 0, 0, 1, 280.08, 6383)" filter="url(#Trazado_150689)">
-            <path id="Trazado_150689-2" data-name="Trazado 150689" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(382.33 53.29)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
+          <g transform="matrix(1, 0, 0, 1, 280.08, 6379)" filter="url(#Trazado_150689)">
+            <path id="Trazado_150689-2" data-name="Trazado 150689" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(382.33 57.29)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
           </g>
-          <g transform="matrix(1, 0, 0, 1, 280.08, 6383)" filter="url(#Trazado_150690)">
-            <path id="Trazado_150690-2" data-name="Trazado 150690" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(508.15 53.29)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
+          <g transform="matrix(1, 0, 0, 1, 280.08, 6379)" filter="url(#Trazado_150690)">
+            <path id="Trazado_150690-2" data-name="Trazado 150690" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(508.15 57.29)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
           </g>
-          <g transform="matrix(1, 0, 0, 1, 280.08, 6383)" filter="url(#Trazado_150691)">
-            <path id="Trazado_150691-2" data-name="Trazado 150691" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(632.48 53.29)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
+          <g transform="matrix(1, 0, 0, 1, 280.08, 6379)" filter="url(#Trazado_150691)">
+            <path id="Trazado_150691-2" data-name="Trazado 150691" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(632.48 57.29)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
           </g>
-          <g transform="matrix(1, 0, 0, 1, 280.08, 6383)" filter="url(#Trazado_150692)">
-            <path id="Trazado_150692-2" data-name="Trazado 150692" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(758.5 53.29)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
+          <g transform="matrix(1, 0, 0, 1, 280.08, 6379)" filter="url(#Trazado_150692)">
+            <path id="Trazado_150692-2" data-name="Trazado 150692" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(758.5 57.29)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
           </g>
-          <g transform="matrix(1, 0, 0, 1, 280.08, 6383)" filter="url(#Trazado_150693)">
-            <path id="Trazado_150693-2" data-name="Trazado 150693" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(883.41 53.29)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
+          <g transform="matrix(1, 0, 0, 1, 280.08, 6379)" filter="url(#Trazado_150693)">
+            <path id="Trazado_150693-2" data-name="Trazado 150693" d="M26.948,125.093a48,48,0,1,0,48-48,48,48,0,0,0-48,48" transform="translate(883.41 57.29)" fill="#f8f8f8" stroke="#fff" stroke-width="3"/>
           </g>
         </g>
       </g>

@@ -12,7 +12,7 @@
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.png')})`}"
           )
-          .bloque-texto-g__texto.p-4
+          .bloque-texto-g__texto.p-5
             <br>
             h5 Conozca la definición de los tipos de cliente según el autor:
             <br>
@@ -144,16 +144,17 @@
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/sl1.png')})`}")
               img(src="@/assets/curso/tema2/sl1.png")            
             .tarjeta-slide__contenido.p-4.p-xl-5
-              img.ps(src="@/assets/curso/tema2/ico1.svg")
-              p.mb-0 <strong>Clientes proveedores</strong> 
+              img.ps.mt-4(src="@/assets/curso/tema2/ico1.svg")
+              p.mb-0.mt-4 <strong>Clientes proveedores</strong> 
               p Son los que proveen a la empresa los productos y servicios para que la empresa desarrolle la actividad económica
 
       .col-sm-6.col-xl-3.mb-4.mb-sm-0
         .tarjeta.tarjeta-slide.derecha.color-acento-contenido(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
             .tarjeta-slide__img.p-4.p-xl-5
-              img.ps(src="@/assets/curso/tema2/ico2.svg")
-              p.mb-0 <strong>Clientes propiamente dichos</strong> 
+              img.ps.mt-4(src="@/assets/curso/tema2/ico2.svg")
+              p.mb-0.mt-4 <strong>Clientes propiamente dichos</strong> 
+
               p Es el grupo que adquiere los productos o servicios de la organización, pagan por estos y es el grupo al cual la empresa busca satisfacer las necesidades.
             .tarjeta-slide__contenido(:style="{'background-image': `url(${require('@/assets/curso/tema2/sl2.png')})`}")
               img(src="@/assets/curso/tema2/sl2.png")
@@ -161,8 +162,8 @@
         .tarjeta.tarjeta-slide.izquierda.color-primario(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
             .tarjeta-slide__img.p-4.p-xl-5
-              img.ps(src="@/assets/curso/tema2/ico3.svg")
-              p.mb-0 <strong>Entorno social</strong> 
+              img.ps.mt-4(src="@/assets/curso/tema2/ico3.svg")
+              p.mb-0.mt-4 <strong>Entorno social</strong> 
               p Es el entorno de la organización, es decir, la sociedad que está rodeando la empresa.
             .tarjeta-slide__contenido(:style="{'background-image': `url(${require('@/assets/curso/tema2/sl3.png')})`}")
               img(src="@/assets/curso/tema2/sl3.png")
