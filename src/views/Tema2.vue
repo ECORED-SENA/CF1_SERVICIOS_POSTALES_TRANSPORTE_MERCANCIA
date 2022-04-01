@@ -7,18 +7,9 @@
         span.text-white 2
       h1 Tipos de cliente
     .row.mt-4.justify-content-center(data-aos="zoom-in-up") 
-      .col-lg-9.mt-4
-        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mt-4
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.png')})`}"
-          )
-          .bloque-texto-g__texto.p-5
-            <br>
-            h5 Conozca la definición de los tipos de cliente según el autor:
-            <br>
-            p Definiendo cliente como la persona, empresa o entidad que adquiere un producto o servicio y realiza un pago por este; también se puede definir como “empresa o persona que recibe un bien o producto y genera un pago por este”. <strong>(Robles, 2019).</strong>
-            <br><br>
-    
+      .col-lg-9
+        img(src='@/assets/curso/tema1/img6.svg', alt='Texto que describa la imagen')
+
     .row.mt-4.justify-content-center(data-aos="zoom-out-up")
       .col-lg-6.mt-4
         p <strong>Los clientes son la razón de ser de las organizaciones, sin clientes, las organizaciones no tendrían a quién venderles los productos o servicios, de hecho, no percibirían ingresos y, por tanto, no tendrían éxito en el mercado.</strong>
@@ -149,7 +140,7 @@
               p Son los que proveen a la empresa los productos y servicios para que la empresa desarrolle la actividad económica
 
       .col-sm-6.col-xl-3.mb-4.mb-sm-0
-        .tarjeta.tarjeta-slide.derecha.color-acento-contenido(@mouseover="indicadorTarjetaSlide = false")
+        .tarjeta.tarjeta-slide.abajo.color-acento-contenido(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
             .tarjeta-slide__img.p-4.p-xl-5
               img.ps.mt-4(src="@/assets/curso/tema2/ico2.svg")
@@ -159,7 +150,7 @@
             .tarjeta-slide__contenido(:style="{'background-image': `url(${require('@/assets/curso/tema2/sl2.png')})`}")
               img(src="@/assets/curso/tema2/sl2.png")
       .col-sm-6.col-xl-3.mb-4.mb-sm-0
-        .tarjeta.tarjeta-slide.izquierda.color-primario(@mouseover="indicadorTarjetaSlide = false")
+        .tarjeta.tarjeta-slide.abajo.color-primario(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
             .tarjeta-slide__img.p-4.p-xl-5
               img.ps.mt-4(src="@/assets/curso/tema2/ico3.svg")

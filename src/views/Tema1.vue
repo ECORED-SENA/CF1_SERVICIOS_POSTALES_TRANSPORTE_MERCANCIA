@@ -10,7 +10,9 @@
       .col-6
         p <strong>El servicio al cliente está relacionado con todos y cada uno de los procesos implementados durante la prestación de un servicio o la comercialización de un producto.</strong>
       .col-6
-        p También se denomina servicio de atención al cliente. Es un instrumento del marketing que se encarga de generar contacto con los clientes, implementando el uso de diferentes canales que permiten generar relación con el cliente antes, durante y después de la compra o la prestación del servicio. 
+        p También se denomina servicio de atención al cliente. Es un instrumento del 
+          span.it marketing
+          |  que se encarga de generar contacto con los clientes, implementando el uso de diferentes canales que permiten generar relación con el cliente antes, durante y después de la compra o la prestación del servicio. 
     .row.mt-4.justify-content-center(data-aos="zoom-in-up")
       .col-lg-6    
         .titulo-sexto.color-acento-contenido
