@@ -23,13 +23,12 @@
      p El servicio al cliente se enmarca como la estrategia que implementan las empresas en busca de la satisfacción del cliente. Se diferencia de la atención al cliente, ya que esta es la acción que se aplica en el día a día. De acuerdo con la conceptualización, se puede ver el siguiente video más detallado:
       figure.mb-5
         .video
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/XYAVlOvXrnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/p2I7GFzVh44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
       p.mb-5 En la cotidianidad, se tiende a confundir los conceptos y se considera que en las organizaciones el tema de servicio al cliente y atención al cliente es únicamente responsabilidad de los colaboradores de dicha área, pero esto es un gran error, considere el siguiente caso en una tienda de ropa:
       
       figure.mb-5
         .video
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/sy4eV9NbJPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      figcaption Video: Leyenda del video
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/JVjcon8ecOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
       p.mb-5 De acuerdo con este contexto, la empresa se comunica con María y le explica la situación presentada y refiere que no puede atender su pedido solo hasta 10 días después del compromiso inicial de entrega.
     .row.mt-4
