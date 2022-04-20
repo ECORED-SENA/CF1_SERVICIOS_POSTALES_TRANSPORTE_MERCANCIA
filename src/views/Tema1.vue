@@ -14,8 +14,7 @@
           |  que se encarga de generar contacto con los clientes, implementando el uso de diferentes canales que permiten generar relación con el cliente antes, durante y después de la compra o la prestación del servicio.
         p El servicio al cliente se enmarca como la estrategia que implementan las empresas en busca de la satisfacción del cliente. Se diferencia de la atención al cliente, ya que esta es la acción que se aplica en el día a día. De acuerdo con la conceptualización, se puede ver el siguiente video más detallado:                   
       .col-lg-6(data-aos="zoom-in-right")
-        .titulo-sexto.color-acento-contenido.mb-0
-          h5 Servicio al cliente
+
         img.img-t1(src='@/assets/curso/tema1/img1.png' alt='AvatarTop')
 
     figure.mb-5
