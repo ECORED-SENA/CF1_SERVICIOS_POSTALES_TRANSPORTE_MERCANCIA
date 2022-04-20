@@ -249,7 +249,7 @@
               span 3
             | Revisión de reportes del seguimiento y aplicación de controles a las inconformidades.
     .row.mt-4.justify-content-center(data-aos="zoom-out-left")
-      .cajon.color-primario.p-4.mb-4
+      .cajon.color-primario.p-4
         .row.mt-4.justify-content-evenly
           .col-lg-2
             img.img-a(src='@/assets/curso/tema3/img9.svg', alt='Texto que describa la imagen')
@@ -259,32 +259,28 @@
     .row.mt-4.justify-content-start.align-items-center            
       .col-lg-6               
         p Según los servicios de mensajería expresa, deben cumplir con las siguientes características: 
-        .row.mt-4(data-aos="zoom-out-left")
-          .col-sm.mb-5.mb-sm-0
-            ol.lista-ol--cuadro.lista-ol--separador
-              li 
-                .lista-ol--cuadro__vineta
-                  span 1
-                | Registro individual 
-
-
-              li 
-                .lista-ol--cuadro__vineta
-                  span 2
-                | Puede ser recogido a domicilio
-
-              li 
-                .lista-ol--cuadro__vineta
-                  span 3
-                | Tiempo de entrega
-              li 
-                .lista-ol--cuadro__vineta
-                  span 4
-                | Prueba de entrega
-              li 
-                .lista-ol--cuadro__vineta
-                  span 5
-                | Rastreo         
+        ol.lista-ol--cuadro.lista-ol--separador(data-aos="zoom-out-left")
+          li 
+            .lista-ol--cuadro__vineta
+              span 1
+            | Registro individual
+          li 
+            .lista-ol--cuadro__vineta
+              span 2
+            | Puede ser recogido a domicilio
+          li 
+            .lista-ol--cuadro__vineta
+              span 3
+            | Tiempo de entrega
+          li 
+            .lista-ol--cuadro__vineta
+              span 4
+            | Prueba de entrega
+          li 
+            .lista-ol--cuadro__vineta
+              span 5
+            | Rastreo         
+            
       .col-lg-6.my-3(data-aos="fade-left")               
         img.img-a.img-t(src='@/assets/curso/tema3/img10.svg', alt='Texto que describa la imagen')
 
