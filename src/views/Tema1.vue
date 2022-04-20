@@ -94,34 +94,28 @@
       p.mt-4 Para prestar un adecuado proceso de servicio al cliente, las empresas deben trabajar en: 
     .row.justify-content-center.align-items-stretch.mb-5
       .col-sm-6.col-lg-2.mb-4.mb-lg-0.tarjeta--boton.color-primario.br-white.p-3
-        .row.justify-content-center.mb-3
-        p.mb-0 <strong>Perfiles de clientes</strong> 
-        p Tener conocimiento de los perfiles de los clientes.
+        p <strong>Perfiles de clientes</strong> 
+        p.mb-0 Tener conocimiento de los perfiles de los clientes.
 
       .col-sm-6.col-lg-2.mb-4.mb-lg-0.tarjeta--boton.color-primario.br-white.p-3
-        .row.justify-content-center.mb-3
-        p.mb-0 <strong>Bases de datos de los clientes</strong> 
-        p Disponer de bases de datos de los clientes
+        p <strong>Bases de datos de los clientes</strong> 
+        p.mb-0 Disponer de bases de datos de los clientes
 
       .col-sm-6.col-lg-2.mb-4.mb-lg-0.tarjeta--boton.color-primario.br-white.p-3
-        .row.justify-content-center.mb-3
-        p.mb-0 <strong>Investigación sobre los clientes</strong> 
-        p Desarrollar investigaciones sobre los clientes, buscando conocer sus necesidades.
+        p <strong>Investigación sobre los clientes</strong> 
+        p.mb-0 Desarrollar investigaciones sobre los clientes, buscando conocer sus necesidades.
 
       .col-sm-6.col-lg-2.mb-4.mb-lg-0.tarjeta--boton.color-primario.br-white.p-3
-        .row.justify-content-center.mb-3
-        p.mb-0 <strong>Evaluar nivel de satisfacción</strong> 
-        p Evaluar el nivel de satisfacción con los servicios prestados.
+        p <strong>Evaluar nivel de satisfacción</strong> 
+        p.mb-0 Evaluar el nivel de satisfacción con los servicios prestados.
 
       .col-sm-6.col-lg-2.mb-4.mb-lg-0.tarjeta--boton.color-primario.br-white.p-3
-        .row.justify-content-center.mb-3
-        p.mb-0 <strong>Implementación de auditorías</strong> 
-        p Implementar constantemente auditorías de los servicios.
+        p <strong>Implementación de auditorías</strong> 
+        p.mb-0 Implementar constantemente auditorías de los servicios.
 
       .col-sm-6.col-lg-2.mb-4.mb-lg-0.tarjeta--boton.color-primario.br-white.p-3
-        .row.justify-content-center.mb-3
-        p.mb-0 <strong>Acciones de mejora</strong> 
-        p Desarrollar acciones de mejora.
+        p <strong>Acciones de mejora</strong> 
+        p.mb-0 Desarrollar acciones de mejora.
     
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-up")
