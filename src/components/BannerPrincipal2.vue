@@ -16,15 +16,10 @@
             i.fas.fa-angle-right
 
       .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
-        img(:src="globalData.imagenBannerPrincipal" style="width: 350px")
-    //.imagen_flotante_1: img(src="@/assets/curso/banner/img01.svg")
+        img.img-a(:src="globalData.imagenBannerPrincipal" style="width:  481px")
     .imagen_flotante_2: img(src="@/assets/curso/banner/img01.svg")
     .imagen_flotante_3: img(src="@/assets/curso/banner/img02.svg")
-    //.imagen_flotante_4.d-none.d-xl-block: img(src="@/assets/curso/banner/img01.svg")
-    //.imagen_flotante_5.d-none.d-xl-block: img(src="@/assets/curso/banner/img01.svg")
     .imagen_flotante_6.d-none.d-xl-block: img(src="@/assets/curso/banner/img03.svg")
-    //.imagen_flotante_7: img(src="@/assets/curso/banner/img01.svg")
-    //.imagen_flotante_8: img(src="@/assets/curso/banner/img01.svg")
   
 
 </template>
@@ -52,38 +47,29 @@ export default {
 .banner-principal__info
   padding-left: 80px  !important
   z-index: 3
-
-
 .banner-principal
   p, h1, h2, h3, h4, h5, h6
     color: $color-banner-text
-
   .tarjeta
     background-color: $color-banner-fondo
     background-size: cover
     background-position: center
-
   &__info
     display: flex
     flex-direction: column
     justify-content: center
-
   &__programa
     display: flex
     align-items: center
     margin-bottom: 20px
-
   &__componente
     margin-bottom: 20px
     h1
       line-height: 1.1em
-
       @media (max-width: $bp-max-xs)
         font-size: 2em
-
   &__descripcion
     margin-bottom: 20px
-
   &__row
     @if $banner-principal-img-x == 'derecha'
       justify-content: space-between

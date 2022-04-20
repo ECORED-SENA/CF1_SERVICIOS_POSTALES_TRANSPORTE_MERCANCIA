@@ -12,13 +12,10 @@
     p.mb-5 Para implementar y sostener la imagen de la organización, es necesario una excelente atención, trabajar constantemente en mejorar, enfocados en la calidad, atención, eficiencia, oportunidad y todas las demás estrategias que permitan la conservación de los clientes y consecución de clientes nuevos, así como mayor participación en el mercado para ser más rentables y permanecer en el tiempo.
 
     .row.justify-content-center
-      .col-lg-12.mb-5
+      .col-lg-12
         figure
-          img(src="@/assets/curso/sintesis.png", alt="alt")
-    .row.justify-content-center
-      .col-lg-12.mb-5
-        figure
-          img(src="@/assets/curso/sintesis2.png", alt="alt")
+          img(src="@/assets/curso/sintesis.svg", alt="alt")
+
 
 
 </template>

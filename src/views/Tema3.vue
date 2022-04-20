@@ -12,28 +12,29 @@
         ImagenInfografica.color-secundario.mb-5
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/tema3/img1.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema3/img1.png', alt='Texto que describa la imagen')
 
-          .tarjeta.bg2.p-3(x="21%" y="31%" numero="")
+          .tarjeta.bg2.p-3(x="21.5%" y="31.8%" numero="")
             p Debe asumir el pago de indemnizaciones por pérdidas y averías de los objetos postales o paquetes
-          .tarjeta.bg2.p-3(x="50%" y="20%" numero="")
+          .tarjeta.bg2.p-3(x="49.4%" y="20.5%" numero="")
             p Los objetos postales son propiedad de quién los envía, es decir, del remitente, hasta el momento de la entrega del objeto.
-          .tarjeta.bg2.p-3(x="77%" y="33%" numero="")
+          .tarjeta.bg2.p-3(x="77%" y="33.5%" numero="")
             p La empresa prestadora del servicio postal o encomienda debe guardar secreto e inviolabilidad del objeto postal o paquete.
           .tarjeta.bg2.p-3(x="84%" y="64%" numero="")
             p Debe garantizar el respeto a la intimidad y el manejo de la información en las bases de datos.
-          .tarjeta.bg2.p-3(x="65%" y="87%" numero="")
+          .tarjeta.bg2.p-3(x="64.5%" y="87%" numero="")
             p Debe procurar la neutralidad y confidencialidad de los servicios postales.
-          .tarjeta.bg2.p-3(x="33%" y="89%" numero="")
+          .tarjeta.bg2.p-3(x="33.5%" y="87%" numero="")
             p Debe garantizar la igualdad de trato.
-          .tarjeta.bg2.p-3(x="15%" y="64%" numero="")
+          .tarjeta.bg2.p-3(x="14.5%" y="64.2%" numero="")
             p Debe divulgar y dar a conocer las condiciones del servicio que ofrecen, en cuanto a frecuencias de rutas.
          
     p Las empresas de servicios postales y transporte de paquetes deben trabajar para garantizar los derechos de los destinatarios, como son:
     .row.mt-4.justify-content-center(data-aos="zoom-in-left") 
       .col-lg-6.mt-4
-        img(src='@/assets/curso/tema3/img2.svg', alt='Texto que describa la imagen')
-    #t_3_1.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-out")
+        img(src='@/assets/curso/tema3/img2.png', alt='Texto que describa la imagen')
+    separador
+    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out")
       h2 3.1 Protocolos de Servicio  
     .row.mt-4.justify-content-center(data-aos="zoom-out")
       .col-5
@@ -45,45 +46,42 @@
     figure.mb-5.mt-2(data-aos="zoom-out-up")
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/4EabquNz0ME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    .row.mt-4.justify-content-center  
+    .row.mt-4.justify-content-between.align-items-stretch
       .col-lg-5.bg4.p-4.aa(data-aos="zoom-out-up").wi
 
         .col-12.p-4
-          p.mb-0 Los protocolos de servicio al cliente son documentos controlados donde la organización registra el paso a paso que se debe seguir al realizar atención al cliente; el documento en su encabezado debe tener información como.
-          .row.justify-content-center           
-            .tarjeta.fon1.p-2
-              SlyderF
-                .row
-                  .col-md-12.mb-4.mb-md-0.p-5
-                    p.mb-0 <strong>Definición</strong>
-                    p Este documento registra el protocolo para la atención y el servicio al cliente, es la guía para que los colaboradores de la organización conozcan las directrices establecidas para el servicio y la óptima atención al cliente.
-                .row.p-4
-                  .col-md-12.mb-4.mb-md-0
-                    p.mb-0 <strong>Título</strong>
-                    p Protocolo para atención y servicio al cliente.
-                .row.p-4
-                  .col-md-12.mb-4.mb-md-0
-                    p.mb-0 <strong>Política</strong>
-                    p Los clientes accederán de forma rápida y precisa a la información y obtendrán el acompañamiento que necesiten por parte de la organización en el proceso que soliciten.                    
-      .col-lg-1.wi2
+          p.mb-4 Los protocolos de servicio al cliente son documentos controlados donde la organización registra el paso a paso que se debe seguir al realizar atención al cliente; el documento en su encabezado debe tener información como.
+
+          SlyderF
+            .row.justify-content-center.align-items-center
+              .col-lg-11.p-4.fon1
+                p.mb-0 <strong>Definición</strong>
+                p Este documento registra el protocolo para la atención y el servicio al cliente, es la guía para que los colaboradores de la organización conozcan las directrices establecidas para el servicio y la óptima atención al cliente.
+            .row.justify-content-center.align-items-center
+              .col-lg-11.p-4.fon1
+                p.mb-0 <strong>Título</strong>
+                p Protocolo para atención y servicio al cliente.
+            .row.justify-content-center.align-items-center
+              .col-lg-11.p-4.fon1
+                p.mb-0 <strong>Política</strong>
+                p Los clientes accederán de forma rápida y precisa a la información y obtendrán el acompañamiento que necesiten por parte de la organización en el proceso que soliciten.                    
+
       .col-lg-5.bg3.p-4.bb(data-aos="zoom-out-left").wi
         .col-12.p-4
-          p.mb-0 Los protocolos para atención presencial contienen el accionar del asesor o persona que atiende el cliente, en aspectos como:
-          <br>
-          .row.justify-content-center           
-            .tarjeta.fon2.p-2.mt-4
-              
-              SlyderF
-                .row
-                  .col-md-12.mb-4.mb-md-0.p-5
-                    p.mb-0 <strong>Saludo</strong>
-                    p Se describe la forma en que se debe realizar el saludo, teniendo presente la actitud del colaborador con el cliente y el acercamiento haciendo uso del guion establecido por la organización; hacer contacto visual con el cliente.
-                .row.p-4
-                  .col-md-12.mb-4.mb-md-0
-                    p Comportamiento y actitudes durante la atención.
-                .row.p-4
-                  .col-md-12.mb-4.mb-md-0
-                    p Despedida, haciendo uso del protocolo y del guion establecido para el cierre del contacto.
+          p.mb-4 Los protocolos para atención presencial contienen el accionar del asesor o persona que atiende el cliente, en aspectos como:
+
+          SlyderF
+            .row.justify-content-center.align-items-center
+              .col-lg-11.p-4.fon2
+                p.mb-0 <strong>Saludo</strong>
+                p Se describe la forma en que se debe realizar el saludo, teniendo presente la actitud del colaborador con el cliente y el acercamiento haciendo uso del guion establecido por la organización; hacer contacto visual con el cliente.
+            .row.justify-content-center.align-items-center
+              .col-lg-11.p-4.fon2
+                p Comportamiento y actitudes durante la atención.
+            .row.justify-content-center.align-items-center
+              .col-lg-11.p-4.fon2
+                p Despedida, haciendo uso del protocolo y del guion establecido para el cierre del contacto.
+
     p.mt-4 También especifica el trato personal con el cliente, las expresiones faciales, postura corporal, presentación personal, comportamientos en los diferentes espacios de la organización y todas las demás acciones que se enmarcan en el proceso de atención.
 
     .row.mt-4.p-4.bg1(data-aos="zoom-out-left")
@@ -157,28 +155,29 @@
               span 12
             |  Esperar que el cliente termine la llamada y no cortarla si aún está hablando.
 
-
-    #t_3_2.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-out-right")
+    separador
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
       h2 3.2 Triángulo del servicio
     P El triángulo del servicio es una representación gráfica compuesta por elementos que permiten una mejor gestión de las organizaciones y la garantía de satisfacción del cliente; los elementos que integran esta representación son 4 y el principal es el cliente. Los elementos que integran la representación gráfica son:
     .row.mt-4.justify-content-center 
       .col-lg-10.mt-4(data-aos="zoom-in-left")
-        img(src='@/assets/curso/tema3/img4.svg', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/tema3/img4.png', alt='Texto que describa la imagen')
     <br>
     .tarjeta.color-primario.p-3.mb-5.mt-4
       .row.justify-content-around.align-items-center.p-2
-        .col-1
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/tema1/ico1.svg")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              p Los anteriores elementos deben trabajar de forma colaborativa y de forma constructiva. Todo procedimiento de servicio al cliente se debe diseñar teniendo como base los clientes.
+              p.mb-0 Los anteriores elementos deben trabajar de forma colaborativa y de forma constructiva. Todo procedimiento de servicio al cliente se debe diseñar teniendo como base los clientes.
             .col-sm-auto
-              a.boton.color-acento-acento-botones.texto-blanco(:href="('https://repository.unilibre.edu.co/bitstream/handle/10901/20095/PRINCIPALES%20EXPONENTES%20Y%20CONCEPTOS.pdf?sequence=1&isAllowed=yhttps://www.freepik.es/fotos-premium/todos-somos-rompecabezas-importante-trabajo_2047292.htm#page=1&query=grupos%20de%20trabajo&position=10&from_view=search')" target="_blank")
+              a.boton.color-acento-acento-botones.texto-blanco(href="https://repository.unilibre.edu.co/bitstream/handle/10901/20095/PRINCIPALES%20EXPONENTES%20Y%20CONCEPTOS.pdf?sequence=1&isAllowed=yhttps://www.freepik.es/fotos-premium/todos-somos-rompecabezas-importante-trabajo_2047292.htm#page=1&query=grupos%20de%20trabajo&position=10&from_view=search" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
-    #t_3_3.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-in-left")
+
+    separador
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 3.3 Momentos de verdad
     p Conozca algunas definiciones:
     p <strong>Según Jan Carlzon.</strong> Como afirma el autor en su libro “El momento de la verdad”, una empresa orientada al producto puede ser reemplazada fácilmente por un nuevo competidor que ofrece un producto similar/igual a un costo menor. (Carlzon, 1996)
@@ -230,8 +229,9 @@
             figure
               img(src='@/assets/curso/tema3/img8.png', alt='Texto que describa la imagen')
     p Las solicitudes que las organizaciones o personas realizan a las empresas de servicios postales y transporte de mercancías son las correspondientes al traslado de paquetes y de mercancías a través del uso de los recursos que la empresa tiene disponibles para la prestación del servicio y que este se haga dentro de parámetros de confiabilidad. Por lo tanto, se deben realizar controles en el proceso; estos controles los aplican tanto la empresa remitente como la prestadora del servicio. Esto permite conocer algunos de los controles disponibles:    
-    .row.mt-4(data-aos="zoom-out-down")
-      .col-sm.mb-5.mb-sm-0.mt-4
+
+    .row.mt-4.justify-content-start(data-aos="zoom-out-down")              
+      .col-lg-6 
         ol.lista-ol--cuadro.lista-ol--separador
           li 
             .lista-ol--cuadro__vineta
@@ -249,41 +249,44 @@
               span 3
             | Revisión de reportes del seguimiento y aplicación de controles a las inconformidades.
     .row.mt-4.justify-content-center(data-aos="zoom-out-left")
-        .cajon.color-primario.p-4.mb-4
-          .row.mt-4.justify-content-center
-            .col-lg-2
-              img(src='@/assets/curso/tema3/img9.svg', alt='Texto que describa la imagen')
-            .col-lg-1
-            .col-lg-8
-              p Las entregas de los envíos postales o de mercancías se hacen según el protocolo y los tiempos establecidos para ello. Sin embargo, las empresas ofrecen algunos servicios que dan priorización, uno de ellos se llama servicio de mensajería expresa, es un servicio postal urgente, la prestación de este servicio exige la aplicación de unas condiciones diferentes y especiales en la recepción, recolección, clasificación, transporte y entrega; es importante considerar que este servicio es para envíos postales o mercancías de hasta máximo 5 kilos. <strong>(Superintendencia de Industria y Comercio, s. f.)</strong>
-                                
-    p Según los servicios de mensajería expresa, deben cumplir con las siguientes características: 
-    .row.mt-4(data-aos="zoom-out-left")
-      .col-sm.mb-5.mb-sm-0.mt-4
-        ol.lista-ol--cuadro.lista-ol--separador
-          li 
-            .lista-ol--cuadro__vineta
-              span 1
-            | Registro individual 
+      .cajon.color-primario.p-4.mb-4
+        .row.mt-4.justify-content-evenly
+          .col-lg-2
+            img.img-a(src='@/assets/curso/tema3/img9.svg', alt='Texto que describa la imagen')
+          .col-lg-8
+            p.mb-0 Las entregas de los envíos postales o de mercancías se hacen según el protocolo y los tiempos establecidos para ello. Sin embargo, las empresas ofrecen algunos servicios que dan priorización, uno de ellos se llama servicio de mensajería expresa, es un servicio postal urgente, la prestación de este servicio exige la aplicación de unas condiciones diferentes y especiales en la recepción, recolección, clasificación, transporte y entrega; es importante considerar que este servicio es para envíos postales o mercancías de hasta máximo 5 kilos. <strong>(Superintendencia de Industria y Comercio, s. f.)</strong>
+
+    .row.mt-4.justify-content-start.align-items-center            
+      .col-lg-6               
+        p Según los servicios de mensajería expresa, deben cumplir con las siguientes características: 
+        .row.mt-4(data-aos="zoom-out-left")
+          .col-sm.mb-5.mb-sm-0
+            ol.lista-ol--cuadro.lista-ol--separador
+              li 
+                .lista-ol--cuadro__vineta
+                  span 1
+                | Registro individual 
 
 
-          li 
-            .lista-ol--cuadro__vineta
-              span 2
-            | Puede ser recogido a domicilio
+              li 
+                .lista-ol--cuadro__vineta
+                  span 2
+                | Puede ser recogido a domicilio
 
-          li 
-            .lista-ol--cuadro__vineta
-              span 3
-            | Tiempo de entrega
-          li 
-            .lista-ol--cuadro__vineta
-              span 4
-            | Prueba de entrega
-          li 
-            .lista-ol--cuadro__vineta
-              span 5
-            | Rastre          
+              li 
+                .lista-ol--cuadro__vineta
+                  span 3
+                | Tiempo de entrega
+              li 
+                .lista-ol--cuadro__vineta
+                  span 4
+                | Prueba de entrega
+              li 
+                .lista-ol--cuadro__vineta
+                  span 5
+                | Rastreo         
+      .col-lg-6.my-3(data-aos="fade-left")               
+        img.img-a.img-t(src='@/assets/curso/tema3/img10.svg', alt='Texto que describa la imagen')
 
 </template>
 
