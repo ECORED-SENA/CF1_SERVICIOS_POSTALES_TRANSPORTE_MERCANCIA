@@ -6,7 +6,8 @@
       .titulo-principal__numero
         span.text-white 3
       h1 Estados del servicio al cliente frente a los servicios postales
-    p Actualmente, las organizaciones tienen un gran compromiso con el proceso de servicio al cliente, incluso se ha instituido como política de servicio al cliente. El objetivo de esta política es garantizar la satisfacción de los clientes y que estos sean clientes constantes con la empresa, es decir, que sean clientes leales. Dentro de los estados del servicio al cliente frente a los servicios postales, se enumeran las premisas que la empresa prestadora del servicio debe garantizar al cliente:
+    p Actualmente, las organizaciones tienen un gran compromiso con el proceso de servicio al cliente, incluso se ha instituido como política de servicio al cliente. El objetivo de esta política es garantizar la satisfacción de los clientes y que estos sean clientes constantes con la empresa, es decir, que sean clientes leales. 
+    p Dentro de los estados del servicio al cliente frente a los servicios postales, se enumeran las premisas que la empresa prestadora del servicio debe garantizar al cliente:
     .row.mt-4.justify-content-center(data-aos="zoom-in-left") 
       .col-lg-6.mt-4
         ImagenInfografica.color-secundario.mb-5
@@ -15,19 +16,19 @@
               img(src='@/assets/curso/tema3/img1.png', alt='Texto que describa la imagen')
 
           .tarjeta.bg2.p-3(x="21.5%" y="31.8%" numero="")
-            p Debe asumir el pago de indemnizaciones por pérdidas y averías de los objetos postales o paquetes
+            p.mb-0 Debe asumir el pago de indemnizaciones por pérdidas y averías de los objetos postales o paquetes
           .tarjeta.bg2.p-3(x="49.4%" y="20.5%" numero="")
-            p Los objetos postales son propiedad de quién los envía, es decir, del remitente, hasta el momento de la entrega del objeto.
+            p.mb-0 Los objetos postales son propiedad de quién los envía, es decir, del remitente, hasta el momento de la entrega del objeto.
           .tarjeta.bg2.p-3(x="77%" y="33.5%" numero="")
-            p La empresa prestadora del servicio postal o encomienda debe guardar secreto e inviolabilidad del objeto postal o paquete.
+            p.mb-0 La empresa prestadora del servicio postal o encomienda debe guardar secreto e inviolabilidad del objeto postal o paquete.
           .tarjeta.bg2.p-3(x="84%" y="64%" numero="")
-            p Debe garantizar el respeto a la intimidad y el manejo de la información en las bases de datos.
+            p.mb-0 Debe garantizar el respeto a la intimidad y el manejo de la información en las bases de datos.
           .tarjeta.bg2.p-3(x="64.5%" y="87%" numero="")
-            p Debe procurar la neutralidad y confidencialidad de los servicios postales.
+            p.mb-0 Debe procurar la neutralidad y confidencialidad de los servicios postales.
           .tarjeta.bg2.p-3(x="33.5%" y="87%" numero="")
-            p Debe garantizar la igualdad de trato.
+            p.mb-0 Debe garantizar la igualdad de trato.
           .tarjeta.bg2.p-3(x="14.5%" y="64.2%" numero="")
-            p Debe divulgar y dar a conocer las condiciones del servicio que ofrecen, en cuanto a frecuencias de rutas.
+            p.mb-0 Debe divulgar y dar a conocer las condiciones del servicio que ofrecen, en cuanto a frecuencias de rutas.
          
     p Las empresas de servicios postales y transporte de paquetes deben trabajar para garantizar los derechos de los destinatarios, como son:
     .row.mt-4.justify-content-center(data-aos="zoom-in-left") 
@@ -36,12 +37,9 @@
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out")
       h2 3.1 Protocolos de Servicio  
-    .row.mt-4.justify-content-center(data-aos="zoom-out")
-      .col-5
-        p <strong>Es el documento que las organizaciones tienen establecido para la prestación del servicio al cliente, en él, se registran las actuaciones de los empleados o colaboradores en lo referente al proceso de atención o comercialización.</strong>
-      .col-7
-        p Los protocolos son las guías u orientaciones que describen detalladamente el proceso o la forma en que un colaborador debe actuar con el cliente al momento de realizar contacto, dicho protocolo se enmarca por los criterios y la visión de la organización respecto al buen servicio.
-        p A continuación, puede observar un video, donde se explica el protocolo de atención al cliente:       
+
+    p <strong>Es el documento que las organizaciones tienen establecido para la prestación del servicio al cliente, en él, se registran las actuaciones de los empleados o colaboradores en lo referente al proceso de atención o comercialización.</strong> 
+    p Los protocolos son las guías u orientaciones que describen detalladamente el proceso o la forma en que un colaborador debe actuar con el cliente al momento de realizar contacto, dicho protocolo se enmarca por los criterios y la visión de la organización respecto al buen servicio. A continuación, puede observar un video, donde se explica el protocolo de atención al cliente:       
     <br>
     figure.mb-5.mt-2(data-aos="zoom-out-up")
       .video
@@ -55,15 +53,15 @@
           SlyderF
             .row.justify-content-center.align-items-center
               .col-lg-11.p-4.fon1
-                p.mb-0 <strong>Definición</strong>
+                p <strong>Título</strong>
+                p Protocolo para atención y servicio al cliente.          
+            .row.justify-content-center.align-items-center
+              .col-lg-11.p-4.fon1
+                p <strong>Definición</strong>
                 p Este documento registra el protocolo para la atención y el servicio al cliente, es la guía para que los colaboradores de la organización conozcan las directrices establecidas para el servicio y la óptima atención al cliente.
             .row.justify-content-center.align-items-center
               .col-lg-11.p-4.fon1
-                p.mb-0 <strong>Título</strong>
-                p Protocolo para atención y servicio al cliente.
-            .row.justify-content-center.align-items-center
-              .col-lg-11.p-4.fon1
-                p.mb-0 <strong>Política</strong>
+                p <strong>Política</strong>
                 p Los clientes accederán de forma rápida y precisa a la información y obtendrán el acompañamiento que necesiten por parte de la organización en el proceso que soliciten.                    
 
       .col-lg-5.bg3.p-4.bb(data-aos="zoom-out-left").wi
@@ -73,7 +71,7 @@
           SlyderF
             .row.justify-content-center.align-items-center
               .col-lg-11.p-4.fon2
-                p.mb-0 <strong>Saludo</strong>
+                p <strong>Saludo</strong>
                 p Se describe la forma en que se debe realizar el saludo, teniendo presente la actitud del colaborador con el cliente y el acercamiento haciendo uso del guion establecido por la organización; hacer contacto visual con el cliente.
             .row.justify-content-center.align-items-center
               .col-lg-11.p-4.fon2
@@ -91,7 +89,7 @@
       .col-lg-1
       .col-lg-7
         #t_9_9.titulo-segundo.color-acento-contenido.mt-4
-          h2 Etiqueta Telefónica 
+          h2 Etiqueta telefónica 
         p Los protocolos para atención telefónica son las orientaciones o reglas que se deben seguir para atender una llamada; la etiqueta telefónica permite disponer de las orientaciones adecuadas para atender de forma más amable y oportuna las llamadas, así como lograr más eficacia al momento de realizar comunicaciones con los clientes. Este protocolo también garantiza que, al tener contacto con el cliente desde cualquier área o dependencia de la organización, este va a ser atendido y orientado de la misma manera.
         .col-sm-auto
           a.boton.color-acento-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=egkOLUiEdx4')" target="_blank")
@@ -194,15 +192,13 @@
       .col-lg-12.p-4
         .cajon.color-primario.p-4.mb-4(data-aos="zoom-out-right")
           .col-lg-11.p-4
-            p.mb-0 <strong>Reflexione sobre lo siguiente</strong>
-            p Juan debe enviar un sobre con documentos desde la ciudad de Medellín a la ciudad de Bogotá. Los documentos deben estar en manos del destinatario antes de 24 horas. Juan se desplaza a la empresa <strong>Entrega Inmediata</strong>, que es una empresa de servicios postales y paquetería ubicada cerca de su lugar de trabajo, pero, al llegar a las oficinas de la empresa, encuentra que no tienen parqueadero disponible, los 4 parqueaderos asignados a sus clientes ya están ocupados y no puede ocupar los parqueaderos disponibles, el servicio de seguridad no se lo permite. Se ve en la obligación de desplazarse a la empresa <strong>Entrega Hora Exacta</strong> y, pese a que tampoco había parqueadero disponible asignado a la empresa, el servicio de seguridad le permitió ubicar el vehículo por un periodo de tiempo en otro parqueadero. Al llegar a la empresa, había varios clientes esperando atención, pero la empresa tiene habilitada una ventanilla de recepción de envíos catalogados como urgentes; este servicio tiene un valor un poco más alto que el habitual, pero garantiza la entrega oportuna. Juan tomó este servicio y agradeció la oportunidad. <strong>¿Cree usted que Juan obtuvo momentos de verdad?</strong>
-    
-    .row.mt-4.justify-content-center
-      .col-6
-        p <strong>El portafolio de servicios es una herramienta de la que dispone la empresa para dar a conocer los productos o servicios. </strong>
-      .col-6
-        p Se puede disponer de esta herramienta en formato impreso o en digital. En el caso de las empresas de envíos postales y mercancías, los portafolios de servicios contienen información como:
-    .row.mt-4.justify-content-center(data-aos="zoom-out-down")
+            p <strong>Reflexione sobre lo siguiente:</strong>
+            p Juan debe enviar un sobre con documentos desde la ciudad de Medellín a la ciudad de Bogotá. Los documentos deben estar en manos del destinatario antes de 24 horas. Juan se desplaza a la empresa <strong>Entrega Inmediata</strong>, que es una empresa de servicios postales y paquetería ubicada cerca de su lugar de trabajo, pero, al llegar a las oficinas de la empresa, encuentra que no tienen parqueadero disponible, los 4 parqueaderos asignados a sus clientes ya están ocupados y no puede ocupar los parqueaderos disponibles, el servicio de seguridad no se lo permite. Se ve en la obligación de desplazarse a la empresa <strong>Entrega Hora Exacta</strong> y, pese a que tampoco había parqueadero disponible asignado a la empresa, el servicio de seguridad le permitió ubicar el vehículo por un periodo de tiempo en otro parqueadero. Al llegar a la empresa, había varios clientes esperando atención, pero la empresa tiene habilitada una ventanilla de recepción de envíos catalogados como urgentes; este servicio tiene un valor un poco más alto que el habitual, pero garantiza la entrega oportuna. Juan tomó este servicio y agradeció la oportunidad. <strong>¿Cree usted que Juan obtuvo momentos de verdad?.</strong>    
+
+    p <strong>El portafolio de servicios es una herramienta de la que dispone la empresa para dar a conocer los productos o servicios. </strong> Se puede disponer de esta herramienta en formato impreso o en digital.
+
+    p En el caso de las empresas de envíos postales y mercancías, los portafolios de servicios contienen información como:
+    .row.mt-4.justify-content-center.mt-5(data-aos="zoom-out-down")
       .col-lg-10
         img(src='@/assets/curso/tema3/img6.svg' alt='AvatarTop')
     <br>
@@ -242,7 +238,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 2
-            | Uso del software de la empresa que provee el servicio para hacer seguimiento al envió.
+            p.mb-0 Uso del <i>software</i> de la empresa que provee el servicio para hacer seguimiento al envió.
 
           li 
             .lista-ol--cuadro__vineta
@@ -263,23 +259,23 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            | Registro individual
+            | Registro individual.
           li 
             .lista-ol--cuadro__vineta
               span 2
-            | Puede ser recogido a domicilio
+            | Puede ser recogido a domicilio.
           li 
             .lista-ol--cuadro__vineta
               span 3
-            | Tiempo de entrega
+            | Tiempo de entrega.
           li 
             .lista-ol--cuadro__vineta
               span 4
-            | Prueba de entrega
+            | Prueba de entrega.
           li 
             .lista-ol--cuadro__vineta
               span 5
-            | Rastreo         
+            | Rastreo.         
             
       .col-lg-6.my-3(data-aos="fade-left")               
         img.img-a.img-t(src='@/assets/curso/tema3/img10.svg', alt='Texto que describa la imagen')

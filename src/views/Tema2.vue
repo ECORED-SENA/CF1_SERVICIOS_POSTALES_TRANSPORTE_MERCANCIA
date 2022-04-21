@@ -6,14 +6,13 @@
       .titulo-principal__numero(data-aos="zoom-in-up")
         span.text-white 2
       h1 Tipos de cliente
+    p Conozca la definición de los tipos de cliente según el autor:
     .row.justify-content-center(data-aos="zoom-in-up") 
       .col-lg-9
         img(src='@/assets/curso/tema1/img6.png', alt='Texto que describa la imagen')
-    .row.mt-4.justify-content-center(data-aos="zoom-out-up")
-      .col-lg-6.mt-4
-        p <strong>Los clientes son la razón de ser de las organizaciones, sin clientes, las organizaciones no tendrían a quién venderles los productos o servicios, de hecho, no percibirían ingresos y, por tanto, no tendrían éxito en el mercado.</strong>
-      .col-lg-6.mt-4
-        p Los clientes son muy diferentes entre sí y las empresas trabajan en conocerlos, sus características y necesidades. Todos los clientes determinan las compras según factores como las experiencias pasadas, gustos personales, necesidades a satisfacer, valores de los productos o servicios, poder adquisitivo, entre otros.
+
+
+    p.mt-5 <strong>Los clientes son la razón de ser de las organizaciones, sin clientes, las organizaciones no tendrían a quién venderles los productos o servicios, de hecho, no percibirían ingresos y, por tanto, no tendrían éxito en el mercado.</strong> Los clientes son muy diferentes entre sí y las empresas trabajan en conocerlos, sus características y necesidades. Todos los clientes determinan las compras según factores como las experiencias pasadas, gustos personales, necesidades a satisfacer, valores de los productos o servicios, poder adquisitivo, entre otros.
 
     p Sin embargo, todos los clientes poseen unas características que permiten agruparlos; la empresa comprende mejor las necesidades y direcciona de forma más acertada sus ofertas. A continuación, puede ver los tipos de clientes que se presentan en la actualidad:
     .row.mt-4.justify-content-center(data-aos="zoom-out-up")
@@ -24,37 +23,37 @@
               img(src='@/assets/curso/tema2/img2.png', alt='Texto que describa la imagen')
 
           .tarjeta.bg2.p-3(x="10%" y="94%" numero="1")
-            p.mb-0 <strong>Cliente rotativo</strong>
+            p <strong>Cliente rotativo</strong>
             p Es aquel que, con un alto porcentaje dentro de las relaciones comerciales, puede llegar a tener la rotación generalmente marcada o definida por dificultades en los cumplimientos del servicio.
           .tarjeta.bg2.p-3(x="8%" y="70%" numero="2")
-            p.mb-0 <strong>Cliente fiel</strong>
+            p <strong>Cliente fiel</strong>
             p Están definidos por el tiempo de relación comercial, son aportantes importantes a los ingresos de la compañía y manifiestan satisfacción en la atención y el servicio al cliente.
           .tarjeta.bg2.p-3(x="10%" y="50%" numero="3")
-            p.mb-0 <strong>Cliente nuevo</strong>
+            p <strong>Cliente nuevo</strong>
             p Podemos decir que son clientes que presentan expectativas por el producto o servicio, han recibido una buena atención al cliente y las expectativas de servicio son importantes.
           .tarjeta.bg2.p-3(x="0%" y="20%" numero="4")
-            p.mb-0 <strong>Cliente impulsivo</strong>
+            p <strong>Cliente impulsivo</strong>
             p Se caracteriza por ser un comprador o consumidor impulsivo, es impaciente; con este tipo de clientes, se debe identificar de manera pronta la necesidad, es claro que compra el producto si es lo que necesita o busca.
           .tarjeta.bg2.p-3(x="20%" y="1%" numero="5")
-            p.mb-0 <strong>Cliente indeciso</strong>
+            p <strong>Cliente indeciso</strong>
             p Para este cliente tomar la decisión de compra no es fácil, es importante prestar asesoría y acompañarlo en la toma de la decisión.
           .tarjeta.bg2.p-3(x="38%" y="28%" numero="6")
-            p.mb-0 <strong>Cliente negociador</strong>
+            p <strong>Cliente negociador</strong>
             p Es un tipo de cliente muy común, busca aprovechar las oportunidades, toma decisiones de compra si reconoce en ella un beneficio.
           .tarjeta.bg2.p-3(x="80%" y="1%" numero="7")
-            p.mb-0 <strong>Cliente silencioso</strong>
+            p <strong>Cliente silencioso</strong>
             p Tiene como característica principal que escucha mucho y con atención, además sus intervenciones son pocas, muestra interés por lo que se le ofrece.
           .tarjeta.bg2.p-3(x="100%" y="25%" numero="8")
-            p.mb-0 <strong>Cliente apóstol o embajador</strong>
+            p <strong>Cliente apóstol o embajador</strong>
             p Este tipo de clientes muestra gran interés por la marca; un alto porcentaje de este tipo de clientes comparte la experiencia con el producto o servicio.
           .tarjeta.bg2.p-3(x="90%" y="45%" numero="9")
-            p.mb-0 <strong>Cliente informado</strong>
+            p <strong>Cliente informado</strong>
             p Cliente que está muy atento a todos los detalles, conoce sobre el producto o servicio, hace preguntas y presenta argumentos; se le debe prestar una atención al cliente precisa y objetiva, además de tener claro los compromisos organizacionales que se pueden adquirir.
           .tarjeta.bg2.p-3(x="97%" y="70%" numero="10")
-            p.mb-0 <strong>Cliente discutidor</strong>
+            p <strong>Cliente discutidor</strong>
             p Tipo de cliente que se caracteriza por que, desde el acercamiento a la persona u organización, está predispuesto a discutir o a presentar quejas, se considera superior para tratar con las personas o con cualquier agente de atención al cliente, en el trato se le debe demostrar empatía y paciencia.
           .tarjeta.bg2.p-3(x="90%" y="90%" numero="11")
-            p.mb-0 <strong>Cliente leal</strong>
+            p <strong>Cliente leal</strong>
             p Cliente que es muy comprometido, crea un impacto positivo con la imagen de la empresa y la multiplica.
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
@@ -95,13 +94,13 @@
           .row.mb-4.justify-content-center
             .col-lg-4
               .titulo-sexto.color-primario
-                p Son los clientes internos que se encargan de la producción de cada uno de los productos o la prestación del servicio, tienen contacto directo con el cliente externo, por ejemplo: vendedores, técnicos, electricistas, transportadores, etc.
+                p.mb-0 Son los clientes internos que se encargan de la producción de cada uno de los productos o la prestación del servicio, tienen contacto directo con el cliente externo, por ejemplo: vendedores, técnicos, electricistas, transportadores, etc.
       .col-lg-12.justify-content-center
         .multi-collapse3.collapse(data-bs-parent='#MapaGroup01')
           .row.mb-4.justify-content-center
             .col-lg-4
               .titulo-sexto.color-acento-contenido
-                p Son los clientes encargados del direccionamiento de las personas  y de las operaciones en la organización. 
+                p.mb-0 Son los clientes encargados del direccionamiento de las personas  y de las operaciones en la organización. 
 
     p.mt-4 Para las organizaciones es significativo tener claridad sobre las funciones que desarrolla su cliente interno dentro del proceso productivo o de prestación del servicio, así como tener claro las necesidades y prioridades que lo mueven, haciéndolo sentir importante dentro del engranaje de la organización.  
     SlyderD.my-5(:datos="datosSlyder")(data-aos="zoom-in")
@@ -128,8 +127,8 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__img.p-4.p-xl-5               
               img.ps.mt-4(src="@/assets/curso/tema2/ico1.svg")
-              p.mb-0.mt-4 <strong>Clientes proveedores</strong> 
-              p Son los que proveen a la empresa los productos y servicios para que la empresa desarrolle la actividad económica                       
+              p.mt-4 <strong>Clientes proveedores</strong> 
+              p Son los que proveen a la empresa los productos y servicios para que la empresa desarrolle la actividad económica.                       
             .tarjeta-slide__contenido(:style="{'background-image': `url(${require('@/assets/curso/tema2/sl1.png')})`}")
               img(src="@/assets/curso/tema2/sl1.png")
       .col-sm-6.col-xl-3.mb-4.mb-sm-0
@@ -137,7 +136,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__img.p-4.p-xl-5
               img.ps.mt-4(src="@/assets/curso/tema2/ico2.svg")
-              p.mb-0.mt-4 <strong>Clientes propiamente dichos</strong>
+              p.mt-4 <strong>Clientes propiamente dichos</strong>
               p Es el grupo que adquiere los productos o servicios de la organización, pagan por estos y es el grupo al cual la empresa busca satisfacer las necesidades.
             .tarjeta-slide__contenido(:style="{'background-image': `url(${require('@/assets/curso/tema2/sl2.png')})`}")
               img(src="@/assets/curso/tema2/sl2.png")
@@ -146,7 +145,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__img.p-4.p-xl-5
               img.ps.mt-4(src="@/assets/curso/tema2/ico3.svg")
-              p.mb-0.mt-4 <strong>Entorno social</strong> 
+              p.mt-4 <strong>Entorno social</strong> 
               p Es el entorno de la organización, es decir, la sociedad que está rodeando la empresa.
             .tarjeta-slide__contenido(:style="{'background-image': `url(${require('@/assets/curso/tema2/sl3.png')})`}")
               img(src="@/assets/curso/tema2/sl3.png")
@@ -169,7 +168,7 @@ export default {
     datosSlyder: [
       {
         titulo: 'Cliente interno operativo',
-        texto: 'Producción o prestación del servicio',
+        texto: 'Producción o prestación del servicio.',
         imagen: require('@/assets/curso/tema2/fon1.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

@@ -59,12 +59,10 @@
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-up")
       h2 1.1 Contexto de servicio
-    .row.mt-4.justify-content-center
-      .col-5
-        p <strong>Lograr una buena comunicación con el cliente es construir una buena relación con él; dicha comunicación debe ser fluida, pero ante todo, muy clara y asertiva. </strong>
-      .col-7
-        p Se debe concebir que, fundamentalmente, esta relación es una relación humana, entre dos personas que tienen unas expectativas que se deben escuchar y respetar; lograr esto es generar una buena prestación de servicio al cliente. 
-      p.mt-4 Actualmente, la estrategia de servicio demanda especial atención en las organizaciones, la competencia permite que los clientes exijan cada vez mayor y mejor atención. Disponer de un producto o un servicio para comercializar, por sí solo, no es garantía de éxito o de participación en el mercado. Por ello, cuando los clientes manifiestan que un producto es de su agrado, la empresa debe valorar el proceso de servicio y atención que aplicó  para con este cliente, para potencializarlo, aplicarlo con los demás clientes y lograr brindar la misma experiencia positiva con clientes futuros; esto se enmarca como el contexto de relación entre las partes que permite fidelizar clientes.
+
+    p <strong>Lograr una buena comunicación con el cliente es construir una buena relación con él; dicha comunicación debe ser fluida, pero ante todo, muy clara y asertiva. </strong> Se debe concebir que, fundamentalmente, esta relación es una relación humana, entre dos personas que tienen unas expectativas que se deben escuchar y respetar; lograr esto es generar una buena prestación de servicio al cliente. 
+
+    p Actualmente, la estrategia de servicio demanda especial atención en las organizaciones, la competencia permite que los clientes exijan cada vez mayor y mejor atención. Disponer de un producto o un servicio para comercializar, por sí solo, no es garantía de éxito o de participación en el mercado. Por ello, cuando los clientes manifiestan que un producto es de su agrado, la empresa debe valorar el proceso de servicio y atención que aplicó  para con este cliente, para potencializarlo, aplicarlo con los demás clientes y lograr brindar la misma experiencia positiva con clientes futuros; esto se enmarca como el contexto de relación entre las partes que permite fidelizar clientes.
     .row.justify-content-center.align-items-center.mt-4(data-aos="zoom-in-up")
       .col-lg-5
         ol.lista-ol--cuadro.lista-ol--separador
@@ -88,7 +86,7 @@
               span 4
             | Debe ser permanente y continuo para todos los clientes.
       .col-lg-7
-        img.img-a.img-t.img-t1-1(src='@/assets/curso/tema1/img4.png' alt='AvatarTop')
+        img.img-a.img-t.img-t1-1(src='@/assets/curso/tema1/img4.svg' alt='AvatarTop')
 
       p.mt-4 Para prestar un adecuado proceso de servicio al cliente, las empresas deben trabajar en: 
     .row.justify-content-center.align-items-stretch.mb-5
@@ -141,8 +139,8 @@
               p.mb-1 El formato debe contener información como: <br>
               P.mb-1 <strong>a.</strong> Fecha de recepción. <br> 
               P.mb-1 <strong>b.</strong> Datos del solicitante o peticionario. <br> 
-              P.mb-1 <strong>c.</strong> Nombres y Apellidos <br> 
-              P.mb-1 <strong>d.</strong> Documento de identidad y Tipo de documento <br> 
+              P.mb-1 <strong>c.</strong> Nombres y apellidos <br> 
+              P.mb-1 <strong>d.</strong> Documento de identidad y tipo de documento <br> 
               P.mb-1 <strong>e.</strong> Datos de contacto, así: dirección de correspondencia, correo electrónico, números telefónicos.  <br> 
               P.mb-1 <strong>f.</strong> Espacio amplio y suficiente para que se registre la situación presentada o se haga la descripción de los hechos.   <br> 
               P <strong>g.</strong> Espacio para la firma del peticionario. Es importante tener en cuenta que, en ocasiones, se presentan solicitudes en anónimo. En ese caso, la empresa debe tener definido el procedimiento para dar la respuesta y, de hecho, no se diligencian los datos del peticionario y se debe registrar que es una petición anónima.<strong>(MinTIC, 2020)</strong>
