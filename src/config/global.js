@@ -162,48 +162,48 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Atención:',
+      termino: 'Atención',
       significado: 'proceso cognitivo y conductual de concentración.',
     },
     {
-      termino: 'Ciclo:',
+      termino: 'Ciclo',
       significado:
         'estados o fases en los que se desarrollan unos procesos o procedimientos.',
     },
     {
-      termino: 'Cliente:',
+      termino: 'Cliente',
       significado:
         'organización o persona que hace uso de los servicios o productos de una empresa o persona.',
     },
     {
-      termino: 'Destinatario:',
+      termino: 'Destinatario',
       significado: 'empresa o persona a quien se dirige algo.',
     },
     {
-      termino: 'Mensajería Expresa:',
+      termino: 'Mensajería expresa',
       significado:
         'es el servicio postal catalogado como urgente, que requiere de la aplicación de condiciones o características especiales en el proceso de recepción, recolección, clasificación, transporte y entrega de los objetos postales o las mercancías.',
     },
     {
-      termino: 'Petición:',
+      termino: 'Petición',
       significado: 'acción de solicitar algo.',
     },
     {
-      termino: 'Procedimiento:',
+      termino: 'Procedimiento',
       significado: 'plan o forma de gestionar o ejecutar una cosa.',
     },
     {
-      termino: 'Remitente:',
+      termino: 'Remitente',
       significado:
         'persona o empresa que despacha algo haciendo uso del servicio de correo o servicio postal.',
     },
     {
-      termino: 'Servicio de correo:',
+      termino: 'Servicio de correo',
       significado:
         'servicios postales prestados por una organización denominada operador postal o concesionario de correo.',
     },
     {
-      termino: 'Servicios postales:',
+      termino: 'Servicios postales',
       significado:
         'acción de recepción, clasificación, transporte y entrega de elementos postales, haciendo uso de las redes postales establecidas en el mercado.',
     },
@@ -212,55 +212,55 @@ export default {
       significado: 'proceso o procedimiento que se realiza para pedir algo.',
     },
     {
-      termino: 'Sugerencia:',
+      termino: 'Sugerencia',
       significado:
         'realizar una recomendación o sugerir algo dentro de un proceso.',
     },
     {
-      termino: 'Queja:',
+      termino: 'Queja',
       significado:
         'manifestación de un disgusto que se genera por un comportamiento o una acción.',
     },
     {
-      termino: 'Trámite:',
+      termino: 'Trámite',
       significado:
         'proceso que se realiza de forma sucesiva para dar solución a una situación.',
     },
     {
-      termino: 'Usuario:',
+      termino: 'Usuario',
       significado: 'empresas o personas que usan un servicio con frecuencia.',
     },
   ],
   complementario: [
     {
       texto:
-        '1.Atención al cliente., (2015). Peña, J. (2015). Calidad en el Servicio al Cliente. Aprende las Claves del Servicio [Video]. YouTube. https://www.youtube.com/watch?v=3Kc6eRdy0kY ',
+        'Atención al cliente., (2015). Peña, J. (2015). Calidad en el Servicio al Cliente. Aprende las Claves del Servicio [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=3Kc6eRdy0kY',
     },
     {
       texto:
-        '2.1 Cliente interno, (1998). Bien Pensado. (2018). Cómo derretir al cliente interno [Video]. YouTube. https://www.youtube.com/watch?v=2Wsop8Jnd3w',
+        'Cliente interno, (1998). Bien Pensado. (2018). Cómo derretir al cliente interno [Video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=2Wsop8Jnd3w',
     },
     {
       texto:
-        '3.1 Julca, S. (2016). Protocolo de Atención al Cliente [Video]. YouTube. https://www.youtube.com/watch?v=egkOLUiEdx4',
+        'Julca, S. (2016). Protocolo de Atención al Cliente [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=egkOLUiEdx4',
     },
     {
       texto:
-        '3.2 Protocolo de servicio al cliente para llamadas.Vivianamilagro Veracaamaño. (2017). Etiqueta Telefónica [Video]. YouTube. https://youtu.be/aza8VUDHYmo',
+        'Protocolo de servicio al cliente para llamadas.Vivianamilagro Veracaamaño. (2017). Etiqueta Telefónica [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/aza8VUDHYmo',
     },
     {
       texto:
-        '3.3 Triángulo del servicio.Pulgarín, S. y Urueña, L. (2019). Principales Exponentes y Conceptos de la Gerencia del Servicio. Universidad Libre Seccional Pereira. ',
+        'Triángulo del servicio.Pulgarín, S. y Urueña, L. (2019). Principales Exponentes y Conceptos de la Gerencia del Servicio. Universidad Libre Seccional Pereira. ',
       tipo: 'Documento Repositorio',
-      link: 'https://n9.cl/3ivpc',
+      descarga: '/downloads/PRINCIPALES_EXPONENTES_Y_CONCEPTOS.pdf',
     },
   ],
   creditos: {
@@ -276,7 +276,7 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Gloria Liliana García Marín',
@@ -284,7 +284,7 @@ export default {
         centro: 'Centro de Comercio y Servicios – Regional Risaralda',
       },
       {
-        nombre: 'Gloria Lida Alzate Suarez',
+        nombre: 'Gloria Lida Alzate Súarez',
         cargo: 'Diseñadora instruccional',
         centro:
           'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
@@ -296,7 +296,7 @@ export default {
           'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
       },
       {
-        nombre: 'Dario Gonzalez',
+        nombre: 'Darío González',
         cargo: 'Corrección de estilo',
         centro: 'Regional Tolima – Centro Agropecuario La Granja',
       },
@@ -306,84 +306,79 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'María Natalia Maldonado Delgado        ',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Sergio Mauricio Valencia Martinez',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Zuleidy María Ruíz Torres',
         cargo: 'Producción audiovisual',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Gilberto Junior Rodríguez Rodríguez',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Camilo Andrés Bolaño Rey',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Jaime Enrique Díaz Reyes',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Ludwyng Corzo García ',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Laura Gisselle Murcia Pardo',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Carlos Eduardo Garavito Parada',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Melina Tatiana Quintero Rodriguez',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
