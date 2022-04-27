@@ -51,7 +51,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              p.mb-0 Para profundizar los conocimientos, se invita a revisar el material complementario, donde se puede visualizar el video <strong>“La calidad del servicio del cliente”.</strong>
+              p.mb-0 Para profundizar los conocimientos, se invita a revisar el material complementario, donde se puede visualizar el video <strong>“Calidad en el Servicio al Cliente”.</strong>
             .col-sm-auto
               a.boton.color-acento-acento-botones.texto-blanco(:href="('https://www.youtube.com/embed/3Kc6eRdy0kY')" target="_blank")
                 span Ver más

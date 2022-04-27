@@ -238,7 +238,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 2
-            p.mb-0 Uso del <i>software</i> de la empresa que provee el servicio para hacer seguimiento al envió.
+            p.mb-0 Uso del <i>software</i> de la empresa que provee el servicio para hacer seguimiento al envío.
 
           li 
             .lista-ol--cuadro__vineta
